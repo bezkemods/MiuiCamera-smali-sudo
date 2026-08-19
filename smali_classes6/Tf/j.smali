@@ -1,0 +1,49 @@
+.class public final LTf/j;
+.super Lkotlin/jvm/internal/n;
+.source "SourceFile"
+
+# interfaces
+.implements Llf/a;
+
+
+# annotations
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lkotlin/jvm/internal/n;",
+        "Llf/a<",
+        "Ljava/util/Collection<",
+        "+",
+        "Lag/f;",
+        ">;>;"
+    }
+.end annotation
+
+
+# static fields
+.field public static final a:LTf/j;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 2
+
+    new-instance v0, LTf/j;
+
+    const/4 v1, 0x0
+
+    invoke-direct {v0, v1}, Lkotlin/jvm/internal/n;-><init>(I)V
+
+    sput-object v0, LTf/j;->a:LTf/j;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic invoke()Ljava/lang/Object;
+    .locals 0
+
+    sget-object p0, LXe/w;->a:LXe/w;
+
+    return-object p0
+.end method

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/exo_controls_background" android:background="@color/exo_black_opacity_60" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/exo_bottom_bar" android:background="@color/exo_bottom_bar_background" android:layout_width="fill_parent" android:layout_height="@dimen/bt9" android:layout_marginTop="@dimen/bt_" android:layoutDirection="ltr">
+        <LinearLayout android:layout_gravity="start|center" android:id="@id/exo_time" android:paddingLeft="@dimen/bta" android:paddingRight="@dimen/bta" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr" android:paddingStart="@dimen/bta" android:paddingEnd="@dimen/bta">
+            <TextView android:id="@id/exo_position" style="@style/h5o" />
+            <TextView style="@style/h5p" />
+            <TextView android:id="@id/exo_duration" style="@style/h5n" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="end|center" android:id="@id/exo_basic_controls" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+            <ImageButton android:id="@id/exo_vr" style="@style/h5e" />
+            <ImageButton android:id="@id/exo_shuffle" style="@style/h5d" />
+            <ImageButton android:id="@id/exo_repeat_toggle" style="@style/h5b" />
+            <ImageButton android:id="@id/exo_subtitle" style="@style/h58" />
+            <ImageButton android:id="@id/exo_settings" style="@style/h5c" />
+            <ImageButton android:id="@id/exo_fullscreen" style="@style/h59" />
+            <ImageButton android:id="@id/exo_overflow_show" style="@style/h5a" />
+        </LinearLayout>
+        <HorizontalScrollView android:layout_gravity="end|center" android:id="@id/exo_extra_controls_scroll_view" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/exo_extra_controls" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+                <ImageButton android:id="@id/exo_overflow_hide" style="@style/h5_" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </FrameLayout>
+    <View android:layout_gravity="bottom" android:id="@id/exo_progress_placeholder" android:layout_width="fill_parent" android:layout_height="@dimen/btg" android:layout_marginBottom="@dimen/bth" />
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="end|bottom|center" android:orientation="horizontal" android:id="@id/exo_minimal_controls" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/btc" android:layoutDirection="ltr">
+        <ImageButton android:id="@id/exo_minimal_fullscreen" style="@style/h59" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/exo_center_controls" android:background="@android:color/transparent" android:padding="@dimen/btb" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/exo_prev" style="@style/h5j" />
+        <include layout="@layout/e92" />
+        <ImageButton android:id="@id/exo_play_pause" style="@style/h5i" />
+        <include layout="@layout/e91" />
+        <ImageButton android:id="@id/exo_next" style="@style/h5h" />
+    </LinearLayout>
+</merge>

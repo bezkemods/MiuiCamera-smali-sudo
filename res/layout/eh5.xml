@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/g04" android:background="?a6k" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/fxj" android:layout_marginEnd="@dimen/chc" />
+</FrameLayout>

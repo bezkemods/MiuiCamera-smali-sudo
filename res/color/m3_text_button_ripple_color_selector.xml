@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checkable="false" android:state_pressed="true" android:color="?s_" android:alpha="@dimen/c9t" />
+    <item android:state_focused="true" android:state_checkable="false" android:color="?s_" android:alpha="@dimen/c9r" />
+    <item android:state_checkable="false" android:color="?s_" android:alpha="@dimen/c9s" android:state_hovered="true" />
+    <item android:state_checkable="false" android:color="?s_" android:alpha="@dimen/ca4" />
+    <item android:state_checked="true" android:state_pressed="true" android:color="?sm" android:alpha="@dimen/c9t" />
+    <item android:state_focused="true" android:state_checked="true" android:color="?sj" android:alpha="@dimen/c9r" />
+    <item android:state_checked="true" android:color="?sj" android:alpha="@dimen/c9s" android:state_hovered="true" />
+    <item android:state_checked="true" android:color="?sj" android:alpha="@dimen/ca4" />
+    <item android:state_pressed="true" android:color="?sj" android:alpha="@dimen/c9t" />
+    <item android:state_focused="true" android:color="?sm" android:alpha="@dimen/c9r" />
+    <item android:color="?sm" android:alpha="@dimen/c9s" android:state_hovered="true" />
+    <item android:color="?sm" android:alpha="@dimen/ca4" />
+</selector>

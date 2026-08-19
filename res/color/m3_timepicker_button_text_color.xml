@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checkable="false" android:color="?sm" android:alpha="@dimen/cep" />
+    <item android:state_enabled="false" android:color="?sm" android:alpha="@dimen/cep" />
+    <item android:state_checked="true" android:color="?su" />
+    <item android:color="?ss" />
+</selector>

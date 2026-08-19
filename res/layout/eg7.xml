@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/rotate_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/c43" android:paddingVertical="@dimen/b_9">
+        <ImageView android:id="@id/location_icon" android:background="@drawable/ic_wr_location_icon" android:layout_width="@dimen/b9w" android:layout_height="@dimen/b9x" android:layout_marginTop="@dimen/b9n" />
+        <TextView android:textSize="@dimen/b_3" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/location_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/b_1" android:maxWidth="@dimen/b_2" android:maxLines="3" android:fontFamily="mipro-normal" android:layout_marginStart="@dimen/b_0" />
+    </LinearLayout>
+</LinearLayout>

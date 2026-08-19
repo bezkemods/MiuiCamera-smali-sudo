@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:id="@id/show_westcoast_mark_1" android:layout_width="@dimen/e08" android:layout_height="@dimen/e07" android:layout_centerHorizontal="true" app:nh="@color/transparent" app:nk="@dimen/e0c" app:nl="0.0dip">
+        <androidx.cardview.widget.CardView android:layout_gravity="center" android:visibility="visible" android:layout_width="@dimen/e0e" android:layout_height="@dimen/e09" android:layout_centerHorizontal="true" app:nh="@color/white_alpha_20" app:nk="@dimen/e0b" app:nl="0.0dip">
+            <ImageView android:layout_gravity="center" android:id="@id/show_westcoast_mark_image_view" android:layout_width="@dimen/e0a" android:layout_height="@dimen/e0_" android:src="@drawable/ic_west_coast_princess" android:layout_centerInParent="true" android:contentDescription="@null" />
+        </androidx.cardview.widget.CardView>
+        <ImageView android:layout_gravity="center" android:id="@id/show_westcoast_mark_check_view" android:background="@drawable/water_mark_item_selector_westcost" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:layout_centerInParent="true" android:contentDescription="@null" />
+    </androidx.cardview.widget.CardView>
+    <TextView android:textSize="@dimen/dk9" android:textColor="@color/text_normal" android:gravity="center" android:id="@id/show_westcoast_mark_text_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e0d" android:text="@string/gcl" android:layout_below="@id/show_westcoast_mark_1" />
+</RelativeLayout>

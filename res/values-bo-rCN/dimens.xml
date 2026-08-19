@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cgh">300.0dip</dimen>
+    <dimen name="cgi">300.0dip</dimen>
+    <dimen name="cis">80.0dip</dimen>
+    <dimen name="cit">94.0dip</dimen>
+    <dimen name="cix">8.0sp</dimen>
+    <dimen name="cj0">8.0sp</dimen>
+    <dimen name="cr4">4.5dip</dimen>
+</resources>

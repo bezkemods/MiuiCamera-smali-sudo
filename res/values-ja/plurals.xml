@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">フォーカスしました。%d個の顔を認識しました。</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">撮影枚数%d枚</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">時間間隔%d秒</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">時間: %d 分</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">速度: %d 倍</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">時間：%d秒</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">%d 文字を入力しました。</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">最大 %d 文字まで入力してください。</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">最大%d台のカメラを同じネットワークに接続できます</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">最大%d台のモニターを同じネットワークに接続できます</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">一度に最大で%d体のクローンを作成できます。</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>カメラに接続できません。&lt;br>このアプリは&lt;font color=#FFCE16>&lt;b>%1$d秒&lt;/b>&lt;/font>後に終了します。その後、数分待ってからもう一度お試しください。&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>現在、デバイスの温度が高すぎます。&lt;br>このアプリは&lt;font color=#FFCE16>&lt;b>%1$d秒&lt;/b>&lt;/font>後に終了します。現在の進捗状況は自動的に保存されました。&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>使用しているカメラのバージョンはデバイスのモデルと互換性がありません。&lt;br>アプリは&lt;font color=#FFCE16>&lt;b>%1$d 秒&lt;/b>&lt;/font>後に終了します。カメラのアップデートをアンインストールして、もう一度お試しください。&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="other">%d 秒早送り</item>
+        <item quantity="one">%d 秒早送り</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="other">%d 秒巻き戻し</item>
+        <item quantity="one">%d 秒巻き戻し</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d分</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">タイマーをオンにしました (%1$d秒)。写真はこのデバイスに転送されます。</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">%1$d件の下書きを削除しますか？</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">最大 %d 個のプリセットを追加します</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s分</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">%d秒録画</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">%d個までの被写体でタイムフリーズビデオを撮影することができます。</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s枚</item>
+    </plurals>
+</resources>

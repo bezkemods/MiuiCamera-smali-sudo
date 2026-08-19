@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">Фокусталды. %d бет табылды</item>
+        <item quantity="one">Фокусталды. %d бет табылды</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">Сериалық түсірмеде %d сурет</item>
+        <item quantity="one">Сериалық түсірмеде %d сурет</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">Интервал: %d секунд</item>
+        <item quantity="one">Интервал: %d секунд</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">Ұзақтығы: %d минут</item>
+        <item quantity="one">Ұзақтығы: %d минут</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">Жылдамдығы: %dX</item>
+        <item quantity="one">Жылдамдығы: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">Ұзақтық: %d секунд</item>
+        <item quantity="one">Ұзақтық: %d секунд</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">%d таңба енгіздіңіз.</item>
+        <item quantity="one">%d таңба енгіздіңіз.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">%d таңбаға дейін енгізіңіз.</item>
+        <item quantity="one">%d таңбаға дейін енгізіңіз.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">Бір желіге %d камераға дейін қосуға болады</item>
+        <item quantity="one">Бір желіге %d камераға дейін қосуға болады</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">Бір желіге %d мониторға дейін қосуға болады</item>
+        <item quantity="one">Бір желіге %d мониторға дейін қосуға болады</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">Сіз бір уақытта %d клон жасай аласыз.</item>
+        <item quantity="one">Сіз бір уақытта %d клон жасай аласыз.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>Камераға қосылу мүмкін емес.&lt;br>Бұл қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Содан соң, Бір-екі минут күтіп, әрекетті қайталаңыз.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Камераға қосылу мүмкін емес.&lt;br>Бұл қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Содан соң, бір-екі минут күтіп, әрекетті қайталаңыз.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>Бұл құрылғы там ыстық.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Ағымдағы прогресс автоматты түрде сақталды.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Бұл құрылғы там ыстық.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Ағымдағы прогресс автоматты түрде сақталды.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>Сіз пайдаланып жатқан камера нұсқасы құрылғы үлгісімен үйлесімді емес.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> жабылады. Камера жаңартуларын жойып, әрекетті қайталаңыз.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Сіз пайдаланып жатқан камера нұсқасы құрылғы үлгісімен үйлесімді емес.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> жабылады. Камера жаңартуларын жойып, әрекетті қайталаңыз.&lt;/Data></item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d мин</item>
+        <item quantity="one">%1$d мин</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">Таймер қосылды (%1$d сек). Суреттер осы құрылғыға тасымалданады.</item>
+        <item quantity="one">Таймер қосылды (%1$d сек). Суреттер осы құрылғыға тасымалданады.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">%1$d шимай жойылсын ба?</item>
+        <item quantity="one">%1$d шимай жойылсын ба?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">%d стильге дейін орнатыңыз</item>
+        <item quantity="one">%d стильге дейін орнатыңыз</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%dс</item>
+        <item quantity="one">%dс</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s мин</item>
+        <item quantity="one">%1$s мин</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">%d секунд жазу</item>
+        <item quantity="one">%d секунд жазу</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">Уақытты тоқтататын видеоларды %d адаммен түсіруге болады.</item>
+        <item quantity="one">Уақытты тоқтататын видеоларды тек %d адаммен түсіруге болады.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s сурет</item>
+        <item quantity="one">%1$s сурет</item>
+    </plurals>
+</resources>

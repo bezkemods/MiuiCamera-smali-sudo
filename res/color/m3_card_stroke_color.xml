@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_enabled="false" android:color="?sx" android:alpha="@dimen/c87" />
+    <item android:state_checked="true" android:color="?t8" />
+    <item android:color="?sy" android:state_hovered="true" />
+    <item android:state_focused="true" android:color="?sm" />
+    <item android:state_pressed="true" android:color="?sy" />
+    <item android:color="?sy" app:avb="true" />
+    <item android:color="?sy" />
+</selector>

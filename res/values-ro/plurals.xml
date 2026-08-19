@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">Focalizat. %d fețe detectate</item>
+        <item quantity="one">Focalizat. %d față detectată</item>
+        <item quantity="few">Focalizat. %d fețe detectate</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">%d fotografii în captură în rafale</item>
+        <item quantity="one">%d fotografie în captură în rafale</item>
+        <item quantity="few">%d fotografii în captură în rafale</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">Interval: %d secundă</item>
+        <item quantity="one">Interval: %d secundă</item>
+        <item quantity="few">Interval: %d secunde</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">Durată: %d minute</item>
+        <item quantity="one">Durată: %d minut</item>
+        <item quantity="few">Durată: %d minute</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">Viteză: %dX</item>
+        <item quantity="one">Viteză: %dX</item>
+        <item quantity="few">Viteză: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">Durată: %d secunde</item>
+        <item quantity="one">Durată: %d secundă</item>
+        <item quantity="few">Durată: %d secunde</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">S-au introdus %d caractere.</item>
+        <item quantity="one">S-a introdus %d caracter.</item>
+        <item quantity="few">S-au introdus %d caractere.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">Introduceți până la %d caractere.</item>
+        <item quantity="one">Introduceți până la %d caracter.</item>
+        <item quantity="few">Introduceți până la %d caractere.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">Puteți conecta până la %d camere la aceeași rețea</item>
+        <item quantity="one">Puteți conecta până la %d cameră la aceeași rețea</item>
+        <item quantity="few">Puteți conecta până la %d camere la aceeași rețea</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">Puteți conecta până la %d monitoare la aceeași rețea</item>
+        <item quantity="one">Puteți conecta până la %d monitor la aceeași rețea</item>
+        <item quantity="few">Puteți conecta până la %d monitoare la aceeași rețea</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">Puteți crea până la %d clone simultan.</item>
+        <item quantity="one">Puteți crea până la %d clonă simultan.</item>
+        <item quantity="few">Puteți crea până la %d clone simultan.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>Nu se poate conecta la cameră.&lt;br>Această aplicație se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Nu se poate conecta la cameră.&lt;br>Această aplicație se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Nu se poate conecta la cameră.&lt;br>Această aplicație se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Progresul actual a fost salvat automat.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Progresul actual a fost salvat automat.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Progresul actual a fost salvat automat.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>Versiunea camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Versiunea camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Versiunea camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou.&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="other">Derulează rapid înainte cu %d de secunde</item>
+        <item quantity="one">Derulează rapid înainte cu %d secundă</item>
+        <item quantity="few">Derulează rapid înainte cu %d secunde</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="other">Derulează înapoi cu %d de secunde</item>
+        <item quantity="one">Derulează înapoi cu %d secundă</item>
+        <item quantity="few">Derulează înapoi cu %d secunde</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+        <item quantity="few">%1$d sec</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">Temporizator activat (%1$d sec). Fotografiile vor fi transferate pe acest dispozitiv.</item>
+        <item quantity="one">Temporizator activat (%1$d sec). Fotografiile vor fi transferate pe acest dispozitiv.</item>
+        <item quantity="few">Temporizator activat (%1$d sec). Fotografiile vor fi transferate pe acest dispozitiv.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">Ștergeți %1$d schițe?</item>
+        <item quantity="one">Ștergeți %1$d schiță?</item>
+        <item quantity="few">Ștergeți %1$d schițe?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">Adăugați până la %d presetări</item>
+        <item quantity="one">Adăugați până la %d presetare</item>
+        <item quantity="few">Adăugați până la %d presetări</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="few">%ds</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">Înregistrați %d secunde</item>
+        <item quantity="one">Înregistrați %d secundă</item>
+        <item quantity="few">Înregistrați %d secunde</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiecte.</item>
+        <item quantity="one">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiect.</item>
+        <item quantity="few">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiecte.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s fotografii</item>
+        <item quantity="one">%1$s fotografie</item>
+        <item quantity="few">%1$s fotografii</item>
+    </plurals>
+</resources>

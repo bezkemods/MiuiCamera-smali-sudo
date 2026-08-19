@@ -1,0 +1,6 @@
+.class public interface abstract Lmf/b;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lmf/a;

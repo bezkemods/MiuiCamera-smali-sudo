@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hkv" parent="@style/h3e">
+        <item name="axi">center</item>
+        <item name="axv">fixed</item>
+    </style>
+    <style name="hr8" parent="@style/hjw">
+        <item name="android:textAppearance">?ayw</item>
+        <item name="android:textColor">?sd</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">start|center|top</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/e4s</item>
+    </style>
+    <style name="hra" parent="@style/h40">
+        <item name="android:layout_gravity">start|bottom|center</item>
+    </style>
+</resources>

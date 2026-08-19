@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.SeekBarCompat android:layout_gravity="bottom|center" android:id="@id/beauty_level_adjust_seekbar" android:focusable="false" android:clickable="true" android:layout_width="@dimen/bck" android:layout_height="@dimen/dgh" android:progress="@integer/e30" android:progressDrawable="@drawable/center_seekbar_style" android:thumb="@drawable/makeup_seekbar_thumb_background" android:thumbOffset="0.0dip" android:splitTrack="true" app:et="@dimen/bbm" app:ev="@dimen/di3" app:b31="@dimen/dgh" />
+</FrameLayout>

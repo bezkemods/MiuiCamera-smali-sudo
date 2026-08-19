@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bac">70.5dip</dimen>
+    <dimen name="bbx">24.0dip</dimen>
+    <dimen name="bc2">174.66699dip</dimen>
+    <dimen name="bc3">116.444dip</dimen>
+    <dimen name="bce">4.4439697dip</dimen>
+    <dimen name="bi2">20.0dip</dimen>
+    <dimen name="bi3">16.0dip</dimen>
+    <dimen name="bts">13.869995dip</dimen>
+    <dimen name="btt">20.799988dip</dimen>
+    <dimen name="btu">146.6dip</dimen>
+    <dimen name="btv">90.29999dip</dimen>
+    <dimen name="btw">85.79999dip</dimen>
+    <dimen name="ccl">27.639984dip</dimen>
+    <dimen name="cuh">58.22dip</dimen>
+    <dimen name="cur">92.0dip</dimen>
+    <dimen name="cux">16.699982sp</dimen>
+    <dimen name="cuy">16.699982dip</dimen>
+    <dimen name="cv1">34.049988dip</dimen>
+    <dimen name="cvf">15.299988sp</dimen>
+    <dimen name="d3z">0.0dip</dimen>
+    <dimen name="d40">0.0dip</dimen>
+    <dimen name="dc4">13.454498dip</dimen>
+    <dimen name="dwn">78.0dip</dimen>
+</resources>

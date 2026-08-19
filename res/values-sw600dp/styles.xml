@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hkv" parent="@style/h3e">
+        <item name="axi">center</item>
+        <item name="axv">fixed</item>
+    </style>
+</resources>

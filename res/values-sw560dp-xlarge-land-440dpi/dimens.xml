@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bc4">23.75998dip</dimen>
+    <dimen name="bor">45.23999dip</dimen>
+    <dimen name="bos">279.82812dip</dimen>
+    <dimen name="bou">29.98999dip</dimen>
+    <dimen name="bov">36.72dip</dimen>
+    <dimen name="bow">60.23999dip</dimen>
+    <dimen name="box">-15.0dip</dimen>
+    <dimen name="bp0">140.0dip</dimen>
+    <dimen name="bp2">213.44dip</dimen>
+    <dimen name="bp3">-15.0dip</dimen>
+    <dimen name="bp4">-53.359985dip</dimen>
+    <dimen name="bp5">16.23999dip</dimen>
+    <dimen name="bp6">55.859985dip</dimen>
+    <dimen name="cc2">22.459991dip</dimen>
+    <dimen name="d5p">117.0dip</dimen>
+    <dimen name="d6d">117.0dip</dimen>
+</resources>

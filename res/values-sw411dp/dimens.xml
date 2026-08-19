@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b8m">15.0sp</dimen>
+    <dimen name="b_e">1.5999756dip</dimen>
+    <dimen name="bc2">112.28598dip</dimen>
+    <dimen name="bc3">68.94699dip</dimen>
+    <dimen name="bce">2.8569946dip</dimen>
+    <dimen name="bi2">12.856995dip</dimen>
+    <dimen name="bi3">10.28598dip</dimen>
+    <dimen name="btw">45.679993dip</dimen>
+    <dimen name="c0a">60.179993dip</dimen>
+    <dimen name="d_4">135.0dip</dimen>
+    <dimen name="drt">25.139984dip</dimen>
+    <dimen name="e0u">14.47998dip</dimen>
+    <dimen name="e0w">15.0dip</dimen>
+    <dimen name="e1g">3.8099976dip</dimen>
+</resources>

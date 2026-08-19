@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageButton android:layout_gravity="center_vertical" android:id="@id/btn_cancel" android:background="@null" android:layout_width="@dimen/bjm" android:layout_height="@dimen/bjm" android:src="@drawable/miuix_action_icon_immersion_close_dark" android:contentDescription="@string/fy5" app:a9m="parent" app:a_b="parent" app:a_f="parent" />
+    <TextView android:textSize="@dimen/bjp" android:textColor="@color/mode_edit_sub_title_color" android:layout_gravity="clip_horizontal" android:id="@id/b23" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fye" app:a9m="parent" app:a9t="@id/btn_confirm" app:a_a="@id/btn_cancel" app:a_f="parent" />
+    <ImageButton android:layout_gravity="center_vertical" android:id="@id/btn_confirm" android:background="@null" android:layout_width="@dimen/bjm" android:layout_height="@dimen/bjm" android:src="@drawable/miuix_action_icon_immersion_confirm_dark" android:contentDescription="@string/fg5" app:a9m="parent" app:a9s="parent" app:a_f="parent" />
+</merge>

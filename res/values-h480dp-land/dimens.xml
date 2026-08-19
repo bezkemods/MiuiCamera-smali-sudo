@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cyl">0.0dip</dimen>
+    <dimen name="cyn">22.0dip</dimen>
+    <dimen name="cyo">48.0dip</dimen>
+    <dimen name="cys">48.0dip</dimen>
+    <dimen name="cz4">168.0dip</dimen>
+    <dimen name="cz6">0.0dip</dimen>
+</resources>

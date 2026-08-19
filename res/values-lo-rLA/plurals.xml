@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">ໂຟກັສແລ້ວ. ກວດພົບ %d ໃບໜ້າ</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">%d ພາບໃນຮູບຖ່າຍຕໍ່ເນື່ອງ</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">ຊ່ວງເວລາ: %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">ຊ່ວງເວລາ: %d ນາທີ</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">ຄວາມໄວ: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">ຊ່ວງເວລາ: %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">ປ້ອນແລ້ວ %d ຕົວອັກສອນ.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">ປ້ອນສູງສຸດ %d ຕົວອັກສອນ.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">ທ່ານສາມາດເຊື່ອມຕໍ່ໄດ້ເຖິງ %d ກ້ອງກັບເຄືອຂ່າຍດຽວກັນ</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">ທ່ານສາມາດເຊື່ອມຕໍ່ໄດ້ເຖິງ %d ຈໍກັບເຄືອຂ່າຍດຽວກັນ</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">ທ່ານສາມາດສ້າງໄດ້ສູງສຸດ %d ໂຄລນໃນໜຶ່ງຄັ້ງ.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບກ້ອງໄດ້.&lt;br>ແອັບນີ້ຈະຖືກປິດໃນ &lt;font color=#FFCE16>&lt;b>%1$d ວິນາທີ&lt;/b>&lt;/font>. ຫຼັງຈາກນີ້, ລໍຖ້າໜຶ່ງຫຼືສອງນາທີແລະລອງອີກຄັ້ງ.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>ອຸປະກອນນີ້ຮ້ອນເກີນໄປໃນຕອນນີ້.&lt;br>ແອັບຈະຖືກປິດໃນ &lt;font color=#FFCE16>&lt;b>%1$d ວິນາທີ&lt;/b>&lt;/font>. ຄວາມຄືບໜ້າປັດຈຸບັນຖືກບັນທຶກໂດຍອັດຕະໂນມັດ.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>ເວີຊັ່ນກ້ອງຖ່າຍຮູບທີ່ທ່ານກຳລັງໃຊ້ນັ້ນບໍ່ເຂົ້າກັນໄດ້ກັບໂມເດວອຸປະກອນຂອງທ່ານ.&lt;br>Tແອັບຈະຖືກປິດໃນ &lt;font color=#FFCE16>&lt;b>%1$d ວິ&lt;/b>&lt;/font>. ຖອນການຕິດຕັ້ງການອັບເດດກ້ອງຖ່າຍຮູບແລະລອງອີກຄັ້ງ.&lt;/Data></item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d ນາທີ</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d ວິ</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">ເປີດໂຕຈັບເວລາ (%1$d ວິນາທີ). ຮູບພາບຈະຖືກໂອນໄປທີ່ອຸປະກອນນີ້.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">ລົບ %1$d ​ໂຄງຮ່າງບໍ?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">ເພີ່ມສູງສຸດ %d ຄ່າທີ່ຕັ້ງໄວ້</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%dວິ</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s ນາທີ</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">ບັນທຶກ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">ທ່ານສາມາດຖ່າຍວິດີໂອແຊ່ແຂງເວລາໄດ້ສູງສຸດ %d ວັດຖຸ.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s ຮູບພາບ</item>
+    </plurals>
+</resources>

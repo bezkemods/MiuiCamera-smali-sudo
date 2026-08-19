@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:color="?ss" android:alpha="@dimen/cep" />
+    <item android:state_checked="true" android:state_pressed="true" android:color="?sj" />
+    <item android:state_focused="true" android:state_checked="true" android:color="?sj" />
+    <item android:state_checked="true" android:color="?sj" android:state_hovered="true" />
+    <item android:state_checked="true" android:color="?sj" />
+    <item android:state_pressed="true" android:color="?sm" />
+    <item android:state_focused="true" android:color="?sm" />
+    <item android:color="?sm" android:state_hovered="true" />
+    <item android:color="?ss" />
+</selector>

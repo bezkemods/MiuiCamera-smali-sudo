@@ -1,0 +1,127 @@
+.class public final LIb/h;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# static fields
+.field public static final a:Ljava/util/LinkedHashMap;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Ljava/util/LinkedHashMap;
+
+    invoke-direct {v0}, Ljava/util/LinkedHashMap;-><init>()V
+
+    sput-object v0, LIb/h;->a:Ljava/util/LinkedHashMap;
+
+    new-instance v0, Ljava/util/LinkedHashMap;
+
+    invoke-direct {v0}, Ljava/util/LinkedHashMap;-><init>()V
+
+    return-void
+.end method
+
+.method public static a(LIb/g;LIb/b;)V
+    .locals 4
+
+    if-nez p1, :cond_0
+
+    return-void
+
+    :cond_0
+    iget-object p1, p1, LIb/b;->a:LIb/c;
+
+    :goto_0
+    if-eqz p1, :cond_6
+
+    iget-object v0, p1, LIb/c;->b:Ljava/lang/Object;
+
+    check-cast v0, LIb/f;
+
+    const/4 v1, 0x0
+
+    if-eqz v0, :cond_1
+
+    invoke-interface {v0}, LIb/f;->c()Ljava/lang/Class;
+
+    move-result-object v0
+
+    goto :goto_1
+
+    :cond_1
+    move-object v0, v1
+
+    :goto_1
+    const-class v2, LIb/d;
+
+    invoke-static {v0, v2}, Lkotlin/jvm/internal/l;->a(Ljava/lang/Object;Ljava/lang/Object;)Z
+
+    move-result v2
+
+    if-eqz v2, :cond_3
+
+    iget-object v0, p1, LIb/c;->b:Ljava/lang/Object;
+
+    check-cast v0, LIb/f;
+
+    if-eqz v0, :cond_2
+
+    move-object v1, v0
+
+    :cond_2
+    if-eqz v1, :cond_5
+
+    new-instance v0, LIb/d;
+
+    invoke-direct {v0}, LIb/d;-><init>()V
+
+    invoke-interface {v1, v0, p0}, LIb/f;->b(Ljava/lang/Object;LIb/g;)V
+
+    goto :goto_2
+
+    :cond_3
+    iget-object v2, p0, LIb/g;->b:Ljava/util/LinkedHashMap;
+
+    invoke-virtual {v2, v0}, Ljava/util/LinkedHashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object v2
+
+    if-eqz v2, :cond_5
+
+    invoke-virtual {v2}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    move-result-object v3
+
+    invoke-static {v0, v3}, Lkotlin/jvm/internal/l;->a(Ljava/lang/Object;Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_5
+
+    iget-object v0, p1, LIb/c;->b:Ljava/lang/Object;
+
+    check-cast v0, LIb/f;
+
+    if-eqz v0, :cond_4
+
+    move-object v1, v0
+
+    :cond_4
+    if-eqz v1, :cond_5
+
+    invoke-interface {v1, v2, p0}, LIb/f;->b(Ljava/lang/Object;LIb/g;)V
+
+    :cond_5
+    :goto_2
+    iget-object p1, p1, LIb/c;->a:Ljava/lang/Object;
+
+    check-cast p1, LIb/c;
+
+    goto :goto_0
+
+    :cond_6
+    return-void
+.end method

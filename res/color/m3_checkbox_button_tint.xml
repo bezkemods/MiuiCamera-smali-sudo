@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_enabled="false" android:color="?sm" android:alpha="@dimen/c6b" />
+    <item android:color="?s4" app:avc="true" />
+    <item android:color="?sz" app:avf="true" />
+    <item android:state_checked="true" android:color="?sz" />
+    <item android:state_checked="false" android:color="?ss" />
+</selector>

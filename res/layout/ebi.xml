@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:layout_gravity="center|top" android:orientation="vertical" android:layout_width="@dimen/duu" android:layout_height="wrap_content" android:layout_marginStart="@dimen/dut" android:layout_marginEnd="@dimen/dut"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:id="@id/live_workspace_item" android:layout_width="fill_parent" android:layout_height="@dimen/dup" android:layout_marginBottom="@dimen/duq" app:nh="@color/fullscreen_background" app:nk="@dimen/dur" app:nl="0.0dip">
+        <ImageView android:id="@id/live_workspace_item_cover" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:importantForAccessibility="no" />
+        <LinearLayout android:layout_gravity="bottom" android:background="@drawable/gradient_background" android:layout_width="fill_parent" android:layout_height="@dimen/c3x" />
+        <ImageView android:layout_gravity="end|bottom|center" android:id="@id/live_workspace_item_more_select" android:background="@drawable/live_workspace_item_more_select" android:layout_width="@dimen/c3x" android:layout_height="@dimen/c3x" android:contentDescription="@string/et4" android:layout_marginEnd="@dimen/c2i" />
+        <TextView android:textSize="@dimen/c3y" android:textColor="@color/vp_segment_item_duration_text_color" android:layout_gravity="start|bottom|center" android:id="@id/live_workspace_total_length" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/c40" android:layout_marginStart="@dimen/c41" android:textFontWeight="400" />
+    </androidx.cardview.widget.CardView>
+    <LinearLayout android:id="@id/live_workspace_item_layout" android:layout_width="fill_parent" android:layout_height="@dimen/duw">
+        <com.android.camera.ui.ScrollTextview android:textSize="@dimen/c3z" android:textColor="@color/white_alpha_75" android:ellipsize="end" android:gravity="start|center" android:id="@id/live_workspace_item_time_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:singleLine="true" android:layout_weight="1.0" android:textFontWeight="400" />
+    </LinearLayout>
+</LinearLayout>

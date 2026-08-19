@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bih">138.72998dip</dimen>
+    <dimen name="bip">318.97656dip</dimen>
+    <dimen name="biq">111.099976dip</dimen>
+    <dimen name="biu">241.5dip</dimen>
+    <dimen name="biy">277.9375dip</dimen>
+    <dimen name="bj2">111.099976dip</dimen>
+    <dimen name="bj3">166.29999dip</dimen>
+    <dimen name="bu0">40.0dip</dimen>
+    <dimen name="ccw">58.22998dip</dimen>
+    <dimen name="d3n">30.0dip</dimen>
+    <dimen name="d4o">20.0dip</dimen>
+    <dimen name="d4w">53.359985dip</dimen>
+    <dimen name="d6_">20.0dip</dimen>
+    <dimen name="d6l">355.0dip</dimen>
+</resources>

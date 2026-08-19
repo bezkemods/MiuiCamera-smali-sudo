@@ -1,0 +1,3333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ep" format="color" />
+    <attr name="eq" format="dimension" />
+    <attr name="er" format="integer" />
+    <attr name="es" format="reference" />
+    <attr name="et" format="dimension" />
+    <attr name="eu" format="reference" />
+    <attr name="ev" format="dimension" />
+    <attr name="ew" format="dimension" />
+    <attr name="ex" format="boolean" />
+    <attr name="ey" format="reference" />
+    <attr name="ez" format="reference" />
+    <attr name="f0" format="reference" />
+    <attr name="f1" format="reference" />
+    <attr name="f2" format="reference" />
+    <attr name="f3" format="reference" />
+    <attr name="f4" format="reference" />
+    <attr name="f5" format="reference" />
+    <attr name="f6" format="reference" />
+    <attr name="f7" format="reference" />
+    <attr name="f8" format="reference" />
+    <attr name="f9" format="reference" />
+    <attr name="f_" format="boolean" />
+    <attr name="fa" format="reference" />
+    <attr name="fb" format="reference" />
+    <attr name="fc">
+        <enum name="collapse" value="0" />
+        <enum name="expand" value="1" />
+    </attr>
+    <attr name="fd" format="reference" />
+    <attr name="fe" format="reference" />
+    <attr name="ff" format="reference" />
+    <attr name="fg" format="reference" />
+    <attr name="fh" format="reference|dimension" />
+    <attr name="fi" format="reference|dimension" />
+    <attr name="fj" format="reference" />
+    <attr name="fk" format="reference" />
+    <attr name="fl" format="reference" />
+    <attr name="fm" format="dimension" />
+    <attr name="fn" format="dimension" />
+    <attr name="fo" format="reference" />
+    <attr name="fp" format="reference" />
+    <attr name="fq" format="reference" />
+    <attr name="fr" format="reference" />
+    <attr name="fs" format="reference" />
+    <attr name="ft" format="reference" />
+    <attr name="fu" format="reference" />
+    <attr name="fv" format="boolean" />
+    <attr name="fw" format="reference" />
+    <attr name="fx" format="reference" />
+    <attr name="fy" format="reference" />
+    <attr name="fz">
+        <enum name="defaultTab" value="0" />
+        <enum name="segmentTab" value="1" />
+    </attr>
+    <attr name="g0" format="reference" />
+    <attr name="g1" format="reference" />
+    <attr name="g2" format="reference" />
+    <attr name="g3" format="dimension">
+        <enum name="wrap_content" value="0" />
+    </attr>
+    <attr name="g4" format="reference" />
+    <attr name="g5" format="dimension|fraction" />
+    <attr name="g6" format="reference" />
+    <attr name="g7" format="reference" />
+    <attr name="g8" format="reference" />
+    <attr name="g9" format="reference" />
+    <attr name="g_" format="reference" />
+    <attr name="ga" format="reference|string" />
+    <attr name="gb" format="reference" />
+    <attr name="gc" format="reference|color" />
+    <attr name="gd" format="reference" />
+    <attr name="ge" format="reference" />
+    <attr name="gf" format="reference" />
+    <attr name="gg" format="reference" />
+    <attr name="gh" format="reference" />
+    <attr name="gi" format="reference" />
+    <attr name="gj" format="reference" />
+    <attr name="gk" format="reference" />
+    <attr name="gl" format="reference" />
+    <attr name="gm" format="reference" />
+    <attr name="gn" format="reference" />
+    <attr name="go" format="reference" />
+    <attr name="gp" format="boolean" />
+    <attr name="gq" format="reference|boolean" />
+    <attr name="gr" format="reference|color" />
+    <attr name="gs" format="boolean" />
+    <attr name="gt" format="reference" />
+    <attr name="gu" format="reference" />
+    <attr name="gv" format="reference" />
+    <attr name="gw" format="reference" />
+    <attr name="gx" format="reference" />
+    <attr name="gy" format="reference" />
+    <attr name="gz" format="reference" />
+    <attr name="h0" format="float" />
+    <attr name="h1" format="dimension" />
+    <attr name="h2" format="float" />
+    <attr name="h3" format="float" />
+    <attr name="h4" format="dimension" />
+    <attr name="h5" format="reference" />
+    <attr name="h6" format="integer" />
+    <attr name="h7" format="reference" />
+    <attr name="h8" format="reference|color" />
+    <attr name="h9" format="boolean" />
+    <attr name="h_" format="reference" />
+    <attr name="ha" format="reference" />
+    <attr name="hb" format="reference" />
+    <attr name="hc" format="reference" />
+    <attr name="hd" format="string" />
+    <attr name="he" format="reference" />
+    <attr name="hf" format="reference" />
+    <attr name="hg" format="reference" />
+    <attr name="hh" format="reference" />
+    <attr name="hi" format="reference" />
+    <attr name="hj" format="reference" />
+    <attr name="hk" format="reference" />
+    <attr name="hl" format="reference" />
+    <attr name="hm" format="reference" />
+    <attr name="hn" format="reference" />
+    <attr name="ho" format="reference" />
+    <attr name="hp" format="reference" />
+    <attr name="hq" format="reference" />
+    <attr name="hr" format="reference" />
+    <attr name="hs" format="reference|color" />
+    <attr name="ht" format="reference" />
+    <attr name="hu" format="reference" />
+    <attr name="hv" format="reference" />
+    <attr name="hw" format="string" />
+    <attr name="hx" format="reference" />
+    <attr name="hy" format="reference" />
+    <attr name="hz" format="reference" />
+    <attr name="i0" format="reference" />
+    <attr name="i1" format="reference" />
+    <attr name="i2" format="reference" />
+    <attr name="i3" format="reference|color" />
+    <attr name="i4" format="reference|color" />
+    <attr name="i5" format="float" />
+    <attr name="i6" format="string" />
+    <attr name="i7" format="reference|color" />
+    <attr name="i8" format="reference|color" />
+    <attr name="i9" format="float" />
+    <attr name="i_" format="reference|color" />
+    <attr name="ia" format="dimension" />
+    <attr name="ib" format="string" />
+    <attr name="ic" format="reference" />
+    <attr name="id" format="string" />
+    <attr name="ie" format="color" />
+    <attr name="if" format="dimension" />
+    <attr name="ig" format="string" />
+    <attr name="ih" format="boolean" />
+    <attr name="ii" format="boolean" />
+    <attr name="ij" format="reference" />
+    <attr name="ik" format="boolean" />
+    <attr name="il" format="reference" />
+    <attr name="im" format="reference" />
+    <attr name="in" format="boolean" />
+    <attr name="io" format="boolean" />
+    <attr name="ip" format="boolean" />
+    <attr name="iq" format="boolean" />
+    <attr name="ir" format="float" />
+    <attr name="is">
+        <flag name="ALT" value="0x00000002" />
+        <flag name="CTRL" value="0x00001000" />
+        <flag name="FUNCTION" value="0x00000008" />
+        <flag name="META" value="0x00010000" />
+        <flag name="SHIFT" value="0x00000001" />
+        <flag name="SYM" value="0x00000004" />
+    </attr>
+    <attr name="it" format="reference" />
+    <attr name="iu" format="boolean" />
+    <attr name="iv">
+        <enum name="antiClockwise" value="3" />
+        <enum name="bestChoice" value="0" />
+        <enum name="clockwise" value="2" />
+        <enum name="closest" value="1" />
+        <enum name="constraint" value="4" />
+    </attr>
+    <attr name="iw" format="boolean" />
+    <attr name="ix" format="boolean" />
+    <attr name="iy" format="reference" />
+    <attr name="iz">
+        <enum name="fade" value="1" />
+        <enum name="slide" value="0" />
+    </attr>
+    <attr name="j0" format="boolean" />
+    <attr name="j1" format="boolean" />
+    <attr name="j2" format="reference" />
+    <attr name="j3" format="boolean" />
+    <attr name="j4">
+        <enum name="flip" value="2" />
+        <enum name="startHorizontal" value="1" />
+        <enum name="startVertical" value="0" />
+    </attr>
+    <attr name="j5" format="integer" />
+    <attr name="j6" format="integer" />
+    <attr name="j7" format="reference" />
+    <attr name="j8" format="reference|color" />
+    <attr name="j9" format="reference" />
+    <attr name="j_" format="dimension" />
+    <attr name="ja" format="reference" />
+    <attr name="jb" format="reference|color" />
+    <attr name="jc" format="reference|color" />
+    <attr name="jd" format="dimension" />
+    <attr name="je" format="string" />
+    <attr name="jf" format="boolean" />
+    <attr name="jg">
+        <enum name="continuousVelocity" value="0" />
+        <enum name="spring" value="1" />
+    </attr>
+    <attr name="jh" format="reference" />
+    <attr name="ji" format="boolean" />
+    <attr name="jj" format="dimension" />
+    <attr name="jk" format="dimension" />
+    <attr name="jl" format="reference" />
+    <attr name="jm" format="dimension" />
+    <attr name="jn">
+        <enum name="none" value="0" />
+        <enum name="uniform" value="1" />
+    </attr>
+    <attr name="jo">
+        <enum name="animateToEnd" value="4" />
+        <enum name="animateToStart" value="3" />
+        <enum name="jumpToEnd" value="2" />
+        <enum name="jumpToStart" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="jp" format="boolean" />
+    <attr name="jq" format="dimension" />
+    <attr name="jr" format="dimension" />
+    <attr name="js" format="boolean" />
+    <attr name="jt" format="reference" />
+    <attr name="ju" format="reference|color" />
+    <attr name="jv" format="dimension" />
+    <attr name="jw" format="dimension" />
+    <attr name="jx" format="dimension" />
+    <attr name="jy" format="dimension" />
+    <attr name="jz" format="reference" />
+    <attr name="k0" format="float" />
+    <attr name="k1" format="reference|color" />
+    <attr name="k2" format="reference|color" />
+    <attr name="k3" format="reference" />
+    <attr name="k4" format="reference|color" />
+    <attr name="k5" format="reference|color" />
+    <attr name="k6" format="reference|color" />
+    <attr name="k7" format="reference|dimension" />
+    <attr name="k8" format="color" />
+    <attr name="k9">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="k_">
+        <enum name="BOTTOM_END" value="8388693" />
+        <enum name="BOTTOM_START" value="8388691" />
+        <enum name="TOP_END" value="8388661" />
+        <enum name="TOP_START" value="8388659" />
+    </attr>
+    <attr name="ka" format="dimension" />
+    <attr name="kb" format="reference|integer" />
+    <attr name="kc" format="dimension" />
+    <attr name="kd" format="reference" />
+    <attr name="ke" format="reference" />
+    <attr name="kf" format="reference" />
+    <attr name="kg" format="string" />
+    <attr name="kh" format="reference" />
+    <attr name="ki" format="color" />
+    <attr name="kj" format="dimension" />
+    <attr name="kk" format="dimension" />
+    <attr name="kl" format="dimension" />
+    <attr name="km" format="dimension" />
+    <attr name="kn" format="dimension" />
+    <attr name="ko" format="reference" />
+    <attr name="kp" format="reference" />
+    <attr name="kq" format="dimension" />
+    <attr name="kr" format="boolean" />
+    <attr name="ks" format="integer" />
+    <attr name="kt" format="reference" />
+    <attr name="ku" format="dimension" />
+    <attr name="kv" format="reference" />
+    <attr name="kw" format="reference" />
+    <attr name="kx" format="color" />
+    <attr name="ky" format="dimension" />
+    <attr name="kz">
+        <enum name="bottom" value="1" />
+        <enum name="center" value="0" />
+    </attr>
+    <attr name="l0" format="dimension" />
+    <attr name="l1" format="dimension" />
+    <attr name="l2" format="boolean" />
+    <attr name="l3">
+        <enum name="bottom" value="3" />
+        <enum name="end" value="6" />
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+        <enum name="start" value="5" />
+        <enum name="top" value="2" />
+    </attr>
+    <attr name="l4" format="dimension" />
+    <attr name="l5" format="boolean" />
+    <attr name="l6" format="boolean" />
+    <attr name="l7" format="boolean" />
+    <attr name="l8" format="reference|dimension" />
+    <attr name="l9" format="boolean" />
+    <attr name="l_" format="reference|float" />
+    <attr name="la" format="boolean" />
+    <attr name="lb" format="dimension" />
+    <attr name="lc" format="dimension">
+        <enum name="auto" value="-1" />
+    </attr>
+    <attr name="ld">
+        <flag name="all" value="0xffffffff" />
+        <flag name="fitToContents" value="0x00000002" />
+        <flag name="hideable" value="0x00000004" />
+        <flag name="none" value="0x00000000" />
+        <flag name="peekHeight" value="0x00000001" />
+        <flag name="skipCollapsed" value="0x00000008" />
+    </attr>
+    <attr name="le" format="dimension" />
+    <attr name="lf" format="boolean" />
+    <attr name="lg">
+        <flag name="actionBar" value="0x00000001" />
+        <flag name="none" value="0x00000000" />
+        <flag name="rootView" value="0x00000004" />
+        <flag name="splitActionBar" value="0x00000002" />
+    </attr>
+    <attr name="lh" format="reference|color" />
+    <attr name="li" format="reference|integer|dimension" />
+    <attr name="lj" format="color" />
+    <attr name="lk" format="color" />
+    <attr name="ll" format="dimension" />
+    <attr name="lm" format="dimension" />
+    <attr name="ln" format="dimension" />
+    <attr name="lo" format="reference" />
+    <attr name="lp" format="integer" />
+    <attr name="lq" format="color" />
+    <attr name="lr" format="dimension" />
+    <attr name="ls" format="dimension" />
+    <attr name="lt" format="float" />
+    <attr name="lu" format="dimension" />
+    <attr name="lv" format="reference" />
+    <attr name="lw" format="reference" />
+    <attr name="lx" format="reference" />
+    <attr name="ly" format="boolean" />
+    <attr name="lz" format="reference" />
+    <attr name="m0" format="reference|color" />
+    <attr name="m1">
+        <enum name="autoContent" value="0" />
+        <enum name="autoDetail" value="1" />
+        <enum name="bottom" value="2" />
+        <enum name="suspension" value="3" />
+    </attr>
+    <attr name="m2" format="reference" />
+    <attr name="m3" format="reference" />
+    <attr name="m4" format="reference" />
+    <attr name="m5" format="reference" />
+    <attr name="m6" format="reference" />
+    <attr name="m7" format="color" />
+    <attr name="m8">
+        <enum name="filled" value="1" />
+        <enum name="none" value="0" />
+        <enum name="outline" value="2" />
+    </attr>
+    <attr name="m9" format="dimension" />
+    <attr name="m_" format="dimension" />
+    <attr name="ma" format="dimension" />
+    <attr name="mb" format="dimension" />
+    <attr name="mc" format="dimension" />
+    <attr name="md" format="color" />
+    <attr name="me" format="color" />
+    <attr name="mf" format="dimension" />
+    <attr name="mg" format="dimension" />
+    <attr name="mh" format="float" />
+    <attr name="mi" format="color" />
+    <attr name="mj" format="reference" />
+    <attr name="mk" format="reference" />
+    <attr name="ml" format="reference" />
+    <attr name="mm" format="reference" />
+    <attr name="mn" format="reference" />
+    <attr name="mo" format="reference" />
+    <attr name="mp" format="reference" />
+    <attr name="mq" format="reference" />
+    <attr name="mr" format="reference" />
+    <attr name="ms" format="float|dimension" />
+    <attr name="mt" format="reference" />
+    <attr name="mu">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="mv" format="reference" />
+    <attr name="mw" format="dimension" />
+    <attr name="mx" format="reference|color" />
+    <attr name="my">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="mz" format="reference" />
+    <attr name="n0" format="reference" />
+    <attr name="n1" format="reference" />
+    <attr name="n2" format="reference" />
+    <attr name="n3" format="reference" />
+    <attr name="n4" format="reference" />
+    <attr name="n5" format="reference" />
+    <attr name="n6" format="reference" />
+    <attr name="n7" format="float|dimension" />
+    <attr name="n8" format="reference" />
+    <attr name="n9" format="reference" />
+    <attr name="n_" format="reference">
+        <enum name="icon_only" value="2" />
+        <enum name="standard" value="0" />
+        <enum name="wide" value="1" />
+    </attr>
+    <attr name="na" format="reference" />
+    <attr name="nb" format="reference" />
+    <attr name="nc" format="color" />
+    <attr name="nd">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="ne" format="reference" />
+    <attr name="nf" format="reference" />
+    <attr name="ng" format="boolean" />
+    <attr name="nh" format="color" />
+    <attr name="ni" format="reference" />
+    <attr name="nj" format="reference" />
+    <attr name="nk" format="dimension" />
+    <attr name="nl" format="dimension" />
+    <attr name="nm" format="boolean" />
+    <attr name="nn" format="color" />
+    <attr name="no" format="reference|color" />
+    <attr name="np" format="boolean" />
+    <attr name="nq" format="reference|color" />
+    <attr name="nr" format="reference|color" />
+    <attr name="ns" format="reference" />
+    <attr name="nt" format="reference|dimension" />
+    <attr name="nu" format="reference|dimension" />
+    <attr name="nv" format="reference|dimension" />
+    <attr name="nw" format="reference|dimension" />
+    <attr name="nx" format="reference|dimension" />
+    <attr name="ny" format="reference|dimension" />
+    <attr name="nz" format="reference|dimension" />
+    <attr name="o0" format="reference|dimension" />
+    <attr name="o1" format="reference|dimension" />
+    <attr name="o2" format="reference|color" />
+    <attr name="o3" format="dimension" />
+    <attr name="o4" format="boolean" />
+    <attr name="o5" format="reference|dimension" />
+    <attr name="o6" format="boolean" />
+    <attr name="o7" format="reference" />
+    <attr name="o8">
+        <enum name="center" value="1" />
+        <enum name="start" value="0" />
+    </attr>
+    <attr name="o9" format="reference" />
+    <attr name="o_">
+        <enum name="gone" value="8" />
+        <enum name="invisible" value="4" />
+    </attr>
+    <attr name="oa" format="reference" />
+    <attr name="ob" format="reference" />
+    <attr name="oc" format="boolean" />
+    <attr name="od" format="reference" />
+    <attr name="oe" format="reference" />
+    <attr name="of">
+        <enum name="carryVelocity" value="2" />
+        <enum name="immediateStop" value="1" />
+    </attr>
+    <attr name="og" format="float" />
+    <attr name="oh" format="float" />
+    <attr name="oi" format="reference|dimension" />
+    <attr name="oj" format="boolean" />
+    <attr name="ok" format="boolean" />
+    <attr name="ol" format="reference" />
+    <attr name="om" format="boolean" />
+    <attr name="on" format="reference|color" />
+    <attr name="oo" format="reference|color" />
+    <attr name="op" format="reference" />
+    <attr name="oq" format="reference" />
+    <attr name="or" format="color" />
+    <attr name="os">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="ot" format="reference|integer" />
+    <attr name="ou" format="reference|integer" />
+    <attr name="ov" format="reference|color" />
+    <attr name="ow" format="reference|color" />
+    <attr name="ox" format="reference|color" />
+    <attr name="oy" format="reference|integer" />
+    <attr name="oz" format="reference|integer" />
+    <attr name="p0" format="reference|color" />
+    <attr name="p1" format="reference|color" />
+    <attr name="p2" format="reference|color" />
+    <attr name="p3" format="reference" />
+    <attr name="p4" format="reference" />
+    <attr name="p5" format="reference" />
+    <attr name="p6" format="reference" />
+    <attr name="p7" format="reference" />
+    <attr name="p8" format="reference|boolean" />
+    <attr name="p9" format="float" />
+    <attr name="p_" format="reference" />
+    <attr name="pa" format="reference" />
+    <attr name="pb" format="reference" />
+    <attr name="pc" format="reference|color" />
+    <attr name="pd" format="reference" />
+    <attr name="pe" format="boolean" />
+    <attr name="pf">
+        <enum name="BOTTOM_END" value="8388693" />
+        <enum name="BOTTOM_START" value="8388691" />
+        <enum name="TOP_END" value="8388661" />
+        <enum name="TOP_START" value="8388659" />
+    </attr>
+    <attr name="pg" format="dimension" />
+    <attr name="ph" format="dimension" />
+    <attr name="pi" format="color" />
+    <attr name="pj" format="boolean" />
+    <attr name="pk">
+        <enum name="indeterminate" value="2" />
+        <enum name="p8" value="1" />
+        <enum name="unchecked" value="0" />
+    </attr>
+    <attr name="pl" format="reference" />
+    <attr name="pm" format="reference|integer" />
+    <attr name="pn" format="reference|integer" />
+    <attr name="po" format="reference|color" />
+    <attr name="pp" format="reference|color" />
+    <attr name="pq" format="reference|color" />
+    <attr name="pr" format="reference|color" />
+    <attr name="ps" format="reference|color" />
+    <attr name="pt" format="reference|integer" />
+    <attr name="pu" format="reference|integer" />
+    <attr name="pv" format="boolean" />
+    <attr name="pw" format="dimension" />
+    <attr name="px" format="dimension" />
+    <attr name="py" format="dimension" />
+    <attr name="pz" format="boolean" />
+    <attr name="q0" format="color" />
+    <attr name="q1" format="dimension" />
+    <attr name="q2" format="dimension" />
+    <attr name="q3" format="reference" />
+    <attr name="q4" format="reference" />
+    <attr name="q5" format="boolean" />
+    <attr name="q6" format="dimension" />
+    <attr name="q7" format="color" />
+    <attr name="q8" format="boolean" />
+    <attr name="q9" format="dimension" />
+    <attr name="q_" format="dimension" />
+    <attr name="qa" format="dimension" />
+    <attr name="qb" format="dimension" />
+    <attr name="qc" format="dimension" />
+    <attr name="qd" format="reference" />
+    <attr name="qe" format="dimension" />
+    <attr name="qf" format="color" />
+    <attr name="qg" format="dimension" />
+    <attr name="qh" format="reference" />
+    <attr name="qi" format="color" />
+    <attr name="qj" format="reference" />
+    <attr name="qk" format="boolean" />
+    <attr name="ql" format="reference|color" />
+    <attr name="qm" format="dimension" />
+    <attr name="qn" format="reference" />
+    <attr name="qo" format="string" />
+    <attr name="qp" format="float" />
+    <attr name="qq" format="dimension" />
+    <attr name="qr" format="string" />
+    <attr name="qs" format="reference" />
+    <attr name="qt" format="reference" />
+    <attr name="qu" format="boolean" />
+    <attr name="qv" format="reference" />
+    <attr name="qw" format="reference" />
+    <attr name="qx" format="reference" />
+    <attr name="qy">
+        <flag name="jumpToEnd" value="0x00000100" />
+        <flag name="jumpToStart" value="0x00001000" />
+        <flag name="toggle" value="0x00000011" />
+        <flag name="transitionToEnd" value="0x00000001" />
+        <flag name="transitionToStart" value="0x00000010" />
+    </attr>
+    <attr name="qz" format="boolean" />
+    <attr name="r0" format="color" />
+    <attr name="r1" format="color" />
+    <attr name="r2" format="reference" />
+    <attr name="r3" format="color" />
+    <attr name="r4" format="boolean" />
+    <attr name="r5" format="reference" />
+    <attr name="r6" format="reference" />
+    <attr name="r7" format="reference|string" />
+    <attr name="r8" format="boolean" />
+    <attr name="r9" format="dimension" />
+    <attr name="r_" format="dimension" />
+    <attr name="ra" format="dimension" />
+    <attr name="rb" format="color" />
+    <attr name="rc" format="boolean" />
+    <attr name="rd" format="reference" />
+    <attr name="re" format="string" />
+    <attr name="rf" format="reference" />
+    <attr name="rg" format="reference" />
+    <attr name="rh" format="reference|integer" />
+    <attr name="ri" format="reference" />
+    <attr name="rj" format="dimension" />
+    <attr name="rk">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="rl" format="reference" />
+    <attr name="rm" format="reference|color" />
+    <attr name="rn" format="reference" />
+    <attr name="ro" format="reference" />
+    <attr name="rp" format="reference" />
+    <attr name="rq" format="reference" />
+    <attr name="rr" format="reference" />
+    <attr name="rs" format="color" />
+    <attr name="rt" format="color" />
+    <attr name="ru" format="color" />
+    <attr name="rv" format="color" />
+    <attr name="rw" format="color" />
+    <attr name="rx" format="color" />
+    <attr name="ry" format="color" />
+    <attr name="rz" format="color" />
+    <attr name="s0" format="color" />
+    <attr name="s1" format="color" />
+    <attr name="s2" format="color" />
+    <attr name="s3" format="reference|color" />
+    <attr name="s4" format="color" />
+    <attr name="s5" format="color" />
+    <attr name="s6" format="color" />
+    <attr name="s7" format="color" />
+    <attr name="s8" format="reference|string|integer|boolean|color|float|dimension|fraction" />
+    <attr name="s9" format="color" />
+    <attr name="s_" format="color" />
+    <attr name="sa" format="color" />
+    <attr name="sb" format="color" />
+    <attr name="sc" format="color" />
+    <attr name="sd" format="color" />
+    <attr name="se" format="color" />
+    <attr name="sf" format="color" />
+    <attr name="sg" format="color" />
+    <attr name="sh" format="color" />
+    <attr name="si" format="color" />
+    <attr name="sj" format="color" />
+    <attr name="sk" format="color" />
+    <attr name="sl" format="color" />
+    <attr name="sm" format="color" />
+    <attr name="sn" format="color" />
+    <attr name="so" format="color" />
+    <attr name="sp" format="color" />
+    <attr name="sq" format="color" />
+    <attr name="sr" format="color" />
+    <attr name="ss" format="color" />
+    <attr name="st" format="color" />
+    <attr name="su" format="color" />
+    <attr name="sv" format="color" />
+    <attr name="sw" format="color" />
+    <attr name="sx" format="color" />
+    <attr name="sy" format="color" />
+    <attr name="sz" format="color" />
+    <attr name="t0" format="color" />
+    <attr name="t1" format="color" />
+    <attr name="t2" format="color" />
+    <attr name="t3" format="color" />
+    <attr name="t4" format="color" />
+    <attr name="t5" format="color" />
+    <attr name="t6" format="color" />
+    <attr name="t7" format="reference">
+        <enum name="auto" value="2" />
+        <enum name="dark" value="0" />
+        <enum name="light" value="1" />
+    </attr>
+    <attr name="t8" format="color" />
+    <attr name="t9" format="color" />
+    <attr name="t_" format="color" />
+    <attr name="ta" format="color" />
+    <attr name="tb" format="color" />
+    <attr name="tc" format="color" />
+    <attr name="td" format="color" />
+    <attr name="te" format="color" />
+    <attr name="tf" format="color" />
+    <attr name="tg" format="color" />
+    <attr name="th" format="color" />
+    <attr name="ti" format="color" />
+    <attr name="tj" format="color" />
+    <attr name="tk" format="color" />
+    <attr name="tl" format="color" />
+    <attr name="tm" format="color" />
+    <attr name="tn" format="color" />
+    <attr name="to" format="color" />
+    <attr name="tp" format="color" />
+    <attr name="tq" format="color" />
+    <attr name="tr" format="color" />
+    <attr name="ts" format="color" />
+    <attr name="tt" format="color" />
+    <attr name="tu" format="color" />
+    <attr name="tv" format="color" />
+    <attr name="tw" format="color" />
+    <attr name="tx" format="reference|integer" />
+    <attr name="ty" format="reference|integer" />
+    <attr name="tz" format="reference|dimension" />
+    <attr name="u0" format="reference" />
+    <attr name="u1" format="reference" />
+    <attr name="u2" format="reference" />
+    <attr name="u3" format="boolean" />
+    <attr name="u4" format="reference" />
+    <attr name="u5" format="reference" />
+    <attr name="u6" format="reference|color" />
+    <attr name="u7" format="reference|color" />
+    <attr name="u8" format="reference|color" />
+    <attr name="u9" format="reference|color" />
+    <attr name="u_" format="reference|color" />
+    <attr name="ua">
+        <enum name="left" value="2" />
+        <enum name="none" value="0" />
+        <enum name="right" value="1" />
+        <enum name="x_left" value="4" />
+        <enum name="x_right" value="3" />
+    </attr>
+    <attr name="ub" format="reference" />
+    <attr name="uc" format="reference" />
+    <attr name="ud" format="reference" />
+    <attr name="ue" format="string" />
+    <attr name="uf" format="string" />
+    <attr name="ug" format="reference" />
+    <attr name="uh" format="reference" />
+    <attr name="ui" format="boolean" />
+    <attr name="uj" format="reference" />
+    <attr name="uk" format="string" />
+    <attr name="ul" format="reference|color" />
+    <attr name="um" format="dimension" />
+    <attr name="un" format="dimension" />
+    <attr name="uo" format="dimension" />
+    <attr name="up" format="dimension" />
+    <attr name="uq" format="dimension" />
+    <attr name="ur" format="dimension" />
+    <attr name="us" format="dimension" />
+    <attr name="ut" format="dimension" />
+    <attr name="uu" format="dimension" />
+    <attr name="uv" format="dimension" />
+    <attr name="uw" format="dimension" />
+    <attr name="ux" format="dimension" />
+    <attr name="uy" format="dimension" />
+    <attr name="uz" format="color" />
+    <attr name="v0" format="reference|color" />
+    <attr name="v1" format="float" />
+    <attr name="v2" format="reference" />
+    <attr name="v3" format="reference" />
+    <attr name="v4" format="reference" />
+    <attr name="v5" format="reference" />
+    <attr name="v6">
+        <enum name="cut" value="1" />
+        <enum name="rounded" value="0" />
+    </attr>
+    <attr name="v7">
+        <enum name="cut" value="1" />
+        <enum name="rounded" value="0" />
+    </attr>
+    <attr name="v8">
+        <enum name="cut" value="1" />
+        <enum name="rounded" value="0" />
+    </attr>
+    <attr name="v9">
+        <enum name="cut" value="1" />
+        <enum name="rounded" value="0" />
+    </attr>
+    <attr name="v_">
+        <enum name="cut" value="1" />
+        <enum name="rounded" value="0" />
+    </attr>
+    <attr name="va" format="dimension" />
+    <attr name="vb" format="dimension" />
+    <attr name="vc" format="dimension|fraction" />
+    <attr name="vd" format="dimension|fraction" />
+    <attr name="ve" format="dimension|fraction" />
+    <attr name="vf" format="dimension|fraction" />
+    <attr name="vg" format="dimension|fraction" />
+    <attr name="vh" format="boolean" />
+    <attr name="vi" format="integer" />
+    <attr name="vj" format="reference" />
+    <attr name="vk" format="reference" />
+    <attr name="vl" format="reference" />
+    <attr name="vm" format="reference" />
+    <attr name="vn" format="float" />
+    <attr name="vo" format="reference" />
+    <attr name="vp" format="color" />
+    <attr name="vq" format="color" />
+    <attr name="vr" format="color" />
+    <attr name="vs">
+        <enum name="linear" value="1" />
+        <enum name="spline" value="0" />
+    </attr>
+    <attr name="vt" format="boolean" />
+    <attr name="vu" format="color" />
+    <attr name="vv" format="dimension" />
+    <attr name="vw" format="dimension" />
+    <attr name="vx" format="color" />
+    <attr name="vy" format="color" />
+    <attr name="vz" format="dimension" />
+    <attr name="w0" format="float" />
+    <attr name="w1" format="integer" />
+    <attr name="w2" format="dimension" />
+    <attr name="w3" format="reference" />
+    <attr name="w4" format="dimension" />
+    <attr name="w5" format="reference" />
+    <attr name="w6" format="string" />
+    <attr name="w7" format="boolean" />
+    <attr name="w8">
+        <flag name="a4_" value="0x00000100" />
+        <flag name="a4a" value="0x00000400" />
+        <flag name="a4u" value="0x00000040" />
+        <flag name="aig" value="0x00000080" />
+        <flag name="aih" value="0x00000200" />
+        <flag name="b5t" value="0x00000020" />
+        <flag name="layout_gravity" value="0x00000001" />
+        <flag name="marginBottom" value="0x00000010" />
+        <flag name="marginEnd" value="0x00000004" />
+        <flag name="marginStart" value="0x00000002" />
+        <flag name="marginTop" value="0x00000008" />
+    </attr>
+    <attr name="w9" format="float" />
+    <attr name="w_" format="reference|color" />
+    <attr name="wa" format="reference" />
+    <attr name="wb" format="reference" />
+    <attr name="wc" format="reference" />
+    <attr name="wd" format="reference" />
+    <attr name="we" format="reference" />
+    <attr name="wf" format="reference" />
+    <attr name="wg" format="integer" />
+    <attr name="wh" format="boolean" />
+    <attr name="wi" format="string" />
+    <attr name="wj" format="boolean" />
+    <attr name="wk" format="reference" />
+    <attr name="wl" format="reference|string|integer|boolean|float" />
+    <attr name="wm" format="reference" />
+    <attr name="wn" format="integer" />
+    <attr name="wo" format="float" />
+    <attr name="wp" format="float" />
+    <attr name="wq" format="string" />
+    <attr name="wr">
+        <flag name="installed" value="0x00000002" />
+        <flag name="none" value="0x00000000" />
+        <flag name="optional" value="0x00000001" />
+    </attr>
+    <attr name="ws" format="reference" />
+    <attr name="wt" format="boolean" />
+    <attr name="wu" format="string" />
+    <attr name="wv" format="reference|color" />
+    <attr name="ww" format="reference|dimension" />
+    <attr name="wx" format="reference|color" />
+    <attr name="wy" format="reference" />
+    <attr name="wz" format="reference" />
+    <attr name="x0" format="reference" />
+    <attr name="x1" format="reference|color" />
+    <attr name="x2" format="reference" />
+    <attr name="x3" format="reference|color" />
+    <attr name="x4" format="dimension" />
+    <attr name="x5" format="reference" />
+    <attr name="x6" format="reference" />
+    <attr name="x7" format="reference" />
+    <attr name="x8" format="reference" />
+    <attr name="x9" format="dimension" />
+    <attr name="x_" format="dimension" />
+    <attr name="xa" format="dimension" />
+    <attr name="xb" format="string" />
+    <attr name="xc" format="reference" />
+    <attr name="xd" format="reference" />
+    <attr name="xe" format="reference" />
+    <attr name="xf" format="dimension" />
+    <attr name="xg" format="dimension" />
+    <attr name="xh" format="reference" />
+    <attr name="xi" format="reference|color" />
+    <attr name="xj" format="reference|color" />
+    <attr name="xk" format="reference" />
+    <attr name="xl" format="string" />
+    <attr name="xm" format="reference" />
+    <attr name="xn" format="reference|color" />
+    <attr name="xo" format="boolean" />
+    <attr name="xp" format="boolean" />
+    <attr name="xq" format="boolean" />
+    <attr name="xr" format="float" />
+    <attr name="xs" format="reference|color" />
+    <attr name="xt" format="float" />
+    <attr name="xu">
+        <flag name="ar_" value="0x00000008" />
+        <flag name="disableHome" value="0x00000020" />
+        <flag name="homeAsUp" value="0x00000004" />
+        <flag name="none" value="0x00000000" />
+        <flag name="showCustom" value="0x00000010" />
+        <flag name="showHome" value="0x00000002" />
+        <flag name="useLogo" value="0x00000001" />
+    </attr>
+    <attr name="xv" format="reference" />
+    <attr name="xw" format="reference|color" />
+    <attr name="xx" format="reference" />
+    <attr name="xy" format="dimension" />
+    <attr name="xz" format="dimension" />
+    <attr name="y0" format="dimension" />
+    <attr name="y1" format="reference" />
+    <attr name="y2" format="reference|color" />
+    <attr name="y3" format="reference" />
+    <attr name="y4" format="dimension" />
+    <attr name="y5" format="reference" />
+    <attr name="y6">
+        <flag name="bottom" value="0x00000008" />
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000004" />
+        <flag name="top" value="0x00000002" />
+    </attr>
+    <attr name="y7" format="dimension" />
+    <attr name="y8" format="dimension" />
+    <attr name="y9" format="reference" />
+    <attr name="y_" format="reference" />
+    <attr name="ya" format="boolean" />
+    <attr name="yb">
+        <enum name="dragAnticlockwise" value="7" />
+        <enum name="dragClockwise" value="6" />
+        <enum name="dragDown" value="1" />
+        <enum name="dragEnd" value="5" />
+        <enum name="dragLeft" value="2" />
+        <enum name="dragRight" value="3" />
+        <enum name="dragStart" value="4" />
+        <enum name="dragUp" value="0" />
+    </attr>
+    <attr name="yc" format="float" />
+    <attr name="yd" format="float" />
+    <attr name="ye" format="fraction" />
+    <attr name="yf" format="fraction" />
+    <attr name="yg">
+        <enum name="asConfigured" value="4" />
+        <enum name="deltaRelative" value="3" />
+        <enum name="none" value="0" />
+        <enum name="path" value="1" />
+        <enum name="pathRelative" value="2" />
+        <enum name="rectangles" value="5" />
+    </attr>
+    <attr name="yh" format="reference" />
+    <attr name="yi" format="reference" />
+    <attr name="yj" format="reference" />
+    <attr name="yk" format="reference" />
+    <attr name="yl" format="dimension" />
+    <attr name="ym" format="reference" />
+    <attr name="yn" format="color" />
+    <attr name="yo">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="yp" format="reference" />
+    <attr name="yq" format="reference" />
+    <attr name="yr" format="dimension" />
+    <attr name="ys" format="reference" />
+    <attr name="yt" format="color" />
+    <attr name="yu" format="reference" />
+    <attr name="yv" format="dimension" />
+    <attr name="yw" format="dimension" />
+    <attr name="yx" format="dimension" />
+    <attr name="yy" format="reference" />
+    <attr name="yz" format="integer" />
+    <attr name="z0" format="dimension" />
+    <attr name="z1" format="reference" />
+    <attr name="z2" format="integer">
+        <flag name="bottom" value="0x00000008" />
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000004" />
+        <flag name="top" value="0x00000002" />
+    </attr>
+    <attr name="z3" format="dimension" />
+    <attr name="z4" format="reference" />
+    <attr name="z5" format="reference|color" />
+    <attr name="z6" format="reference|color" />
+    <attr name="z7" format="reference|color" />
+    <attr name="z8" format="reference|color" />
+    <attr name="z9" format="reference|color" />
+    <attr name="z_" format="reference|color" />
+    <attr name="za" format="reference" />
+    <attr name="zb" format="reference" />
+    <attr name="zc" format="reference" />
+    <attr name="zd">
+        <enum name="both" value="3" />
+        <enum name="landscape" value="2" />
+        <enum name="portrait" value="1" />
+    </attr>
+    <attr name="ze" format="dimension" />
+    <attr name="zf" format="color" />
+    <attr name="zg" format="color" />
+    <attr name="zh" format="boolean" />
+    <attr name="zi" format="boolean" />
+    <attr name="zj" format="boolean" />
+    <attr name="zk" format="boolean" />
+    <attr name="zl" format="boolean" />
+    <attr name="zm" format="boolean" />
+    <attr name="zn" format="reference" />
+    <attr name="zo" format="boolean" />
+    <attr name="zp" format="reference" />
+    <attr name="zq" format="reference" />
+    <attr name="zr" format="boolean" />
+    <attr name="zs" format="string" />
+    <attr name="zt" format="reference" />
+    <attr name="zu" format="dimension" />
+    <attr name="zv">
+        <enum name="clear_text" value="2" />
+        <enum name="custom" value="-1" />
+        <enum name="dropdown_menu" value="3" />
+        <enum name="none" value="0" />
+        <enum name="password_toggle" value="1" />
+    </attr>
+    <attr name="zw">
+        <enum name="center" value="4" />
+        <enum name="centerCrop" value="5" />
+        <enum name="centerInside" value="6" />
+        <enum name="fitCenter" value="2" />
+        <enum name="fitEnd" value="3" />
+        <enum name="fitStart" value="1" />
+        <enum name="fitXY" value="0" />
+    </attr>
+    <attr name="zx" format="color" />
+    <attr name="zy">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="zz" format="integer" />
+    <attr name="a00" format="dimension" />
+    <attr name="a01" format="dimension" />
+    <attr name="a02" format="boolean" />
+    <attr name="a03" format="boolean" />
+    <attr name="a04" format="boolean" />
+    <attr name="a05" format="reference" />
+    <attr name="a06" format="reference" />
+    <attr name="a07" format="reference" />
+    <attr name="a08" format="reference" />
+    <attr name="a09" format="string" />
+    <attr name="a0_" format="integer" />
+    <attr name="a0a" format="string" />
+    <attr name="a0b" format="boolean" />
+    <attr name="a0c" format="reference" />
+    <attr name="a0d" format="reference" />
+    <attr name="a0e">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="a0f" format="boolean" />
+    <attr name="a0g" format="reference" />
+    <attr name="a0h" format="color" />
+    <attr name="a0i" format="reference" />
+    <attr name="a0j" format="reference" />
+    <attr name="a0k" format="reference" />
+    <attr name="a0l" format="reference" />
+    <attr name="a0m" format="reference" />
+    <attr name="a0n" format="reference" />
+    <attr name="a0o" format="reference" />
+    <attr name="a0p" format="boolean" />
+    <attr name="a0q" format="boolean" />
+    <attr name="a0r" format="boolean" />
+    <attr name="a0s">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="a0t" format="dimension" />
+    <attr name="a0u" format="dimension" />
+    <attr name="a0v" format="dimension" />
+    <attr name="a0w" format="dimension" />
+    <attr name="a0x" format="dimension" />
+    <attr name="a0y" format="reference" />
+    <attr name="a0z" format="reference|color" />
+    <attr name="a10" format="reference" />
+    <attr name="a11">
+        <enum name="auto" value="0" />
+        <enum name="match_parent" value="2" />
+        <enum name="wrap_content" value="1" />
+    </attr>
+    <attr name="a12" format="reference" />
+    <attr name="a13" format="reference" />
+    <attr name="a14" format="reference" />
+    <attr name="a15" format="reference" />
+    <attr name="a16" format="reference" />
+    <attr name="a17" format="boolean" />
+    <attr name="a18">
+        <enum name="center" value="0" />
+        <enum name="end" value="1" />
+    </attr>
+    <attr name="a19" format="dimension" />
+    <attr name="a1_">
+        <enum name="cradle" value="1" />
+        <enum name="embed" value="0" />
+    </attr>
+    <attr name="a1a">
+        <enum name="scale" value="0" />
+        <enum name="slide" value="1" />
+    </attr>
+    <attr name="a1b" format="reference|color" />
+    <attr name="a1c" format="dimension" />
+    <attr name="a1d" format="dimension" />
+    <attr name="a1e" format="dimension" />
+    <attr name="a1f" format="dimension" />
+    <attr name="a1g" format="reference|color" />
+    <attr name="a1h" format="boolean" />
+    <attr name="a1i">
+        <enum name="auto" value="-1" />
+        <enum name="mini" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="a1j" format="boolean" />
+    <attr name="a1k" format="reference" />
+    <attr name="a1l" format="reference" />
+    <attr name="a1m" format="reference" />
+    <attr name="a1n" format="reference" />
+    <attr name="a1o">
+        <enum name="autoContent" value="0" />
+        <enum name="autoDetail" value="1" />
+        <enum name="compact" value="2" />
+        <enum name="spacious" value="3" />
+    </attr>
+    <attr name="a1p" format="reference" />
+    <attr name="a1q" format="reference" />
+    <attr name="a1r" format="reference" />
+    <attr name="a1s" format="reference" />
+    <attr name="a1t" format="boolean" />
+    <attr name="a1u" format="reference" />
+    <attr name="a1v" format="dimension" />
+    <attr name="a1w" format="reference" />
+    <attr name="a1x" format="reference" />
+    <attr name="a1y" format="reference|color" />
+    <attr name="a1z" format="dimension" />
+    <attr name="a20" format="reference" />
+    <attr name="a21" format="reference" />
+    <attr name="a22" format="boolean" />
+    <attr name="a23" format="boolean" />
+    <attr name="a24" format="dimension" />
+    <attr name="a25" format="reference" />
+    <attr name="a26" format="reference" />
+    <attr name="a27" format="reference" />
+    <attr name="a28" format="reference" />
+    <attr name="a29" format="reference" />
+    <attr name="a2_" format="reference" />
+    <attr name="a2a" format="reference" />
+    <attr name="a2b" format="reference" />
+    <attr name="a2c" format="reference" />
+    <attr name="a2d" format="reference" />
+    <attr name="a2e" format="reference" />
+    <attr name="a2f" format="reference" />
+    <attr name="a2g" format="reference" />
+    <attr name="a2h" format="reference" />
+    <attr name="a2i" format="reference" />
+    <attr name="a2j" format="dimension" />
+    <attr name="a2k" format="dimension" />
+    <attr name="a2l" format="reference|color" />
+    <attr name="a2m" format="reference|color" />
+    <attr name="a2n" format="float" />
+    <attr name="a2o">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a2p" format="float" />
+    <attr name="a2q">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a2r">
+        <enum name="center" value="2" />
+        <enum name="end" value="1" />
+        <enum name="start" value="0" />
+    </attr>
+    <attr name="a2s" format="float" />
+    <attr name="a2t" format="dimension" />
+    <attr name="a2u">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a2v" format="float" />
+    <attr name="a2w">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a2x" format="float" />
+    <attr name="a2y">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a2z" format="integer" />
+    <attr name="a30" format="dimension" />
+    <attr name="a31">
+        <enum name="baseline" value="3" />
+        <enum name="bottom" value="1" />
+        <enum name="center" value="2" />
+        <enum name="top" value="0" />
+    </attr>
+    <attr name="a32" format="float" />
+    <attr name="a33" format="dimension" />
+    <attr name="a34">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a35">
+        <enum name="aligned" value="2" />
+        <enum name="chain" value="1" />
+        <enum name="chain2" value="3" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="a36" format="boolean" />
+    <attr name="a37" format="float" />
+    <attr name="a38" format="reference|color" />
+    <attr name="a39" format="reference" />
+    <attr name="a3_" format="string" />
+    <attr name="a3a" format="string" />
+    <attr name="a3b" format="reference" />
+    <attr name="a3c">
+        <enum name="async" value="1" />
+        <enum name="blocking" value="0" />
+    </attr>
+    <attr name="a3d" format="integer">
+        <enum name="forever" value="-1" />
+    </attr>
+    <attr name="a3e" format="string" />
+    <attr name="a3f" format="string" />
+    <attr name="a3g" format="string" />
+    <attr name="a3h">
+        <enum name="italic" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="a3i" format="string" />
+    <attr name="a3j" format="integer" />
+    <attr name="a3k" format="boolean" />
+    <attr name="a3l" format="boolean" />
+    <attr name="a3m" format="boolean" />
+    <attr name="a3n" format="reference|color" />
+    <attr name="a3o" format="reference|color" />
+    <attr name="a3p" format="string" />
+    <attr name="a3q" format="reference" />
+    <attr name="a3r" format="integer" />
+    <attr name="a3s" format="reference" />
+    <attr name="a3t" format="reference" />
+    <attr name="a3u" format="reference" />
+    <attr name="a3v" format="reference|color" />
+    <attr name="a3w" format="reference|dimension" />
+    <attr name="a3x" format="reference|color" />
+    <attr name="a3y" format="reference|dimension" />
+    <attr name="a3z" format="string" />
+    <attr name="a40" format="string" />
+    <attr name="a41" format="dimension" />
+    <attr name="a42" format="boolean" />
+    <attr name="a43" format="reference" />
+    <attr name="a44">
+        <flag name="dynamic_column_fixed_cell" value="0x00000002" />
+        <flag name="dynamic_column_fixed_spacing" value="0x00000000" />
+        <flag name="dynamic_column_fixed_spacing_full" value="0x00000001" />
+        <flag name="fixed_column" value="0x00000004" />
+    </attr>
+    <attr name="a45" format="reference|color" />
+    <attr name="a46" format="reference" />
+    <attr name="a47" format="reference" />
+    <attr name="a48" format="reference" />
+    <attr name="a49" format="integer" />
+    <attr name="a4_" format="integer" />
+    <attr name="a4a" format="float" />
+    <attr name="a4b" format="dimension" />
+    <attr name="a4c" format="integer" />
+    <attr name="a4d" format="reference" />
+    <attr name="a4e" format="dimension" />
+    <attr name="a4f" format="dimension" />
+    <attr name="a4g" format="boolean" />
+    <attr name="a4h" format="boolean" />
+    <attr name="a4i" format="reference" />
+    <attr name="a4j" format="reference" />
+    <attr name="a4k" format="boolean" />
+    <attr name="a4l" format="color" />
+    <attr name="a4m" format="dimension" />
+    <attr name="a4n" format="reference|boolean" />
+    <attr name="a4o" format="reference|boolean" />
+    <attr name="a4p" format="reference|boolean" />
+    <attr name="a4q" format="reference" />
+    <attr name="a4r" format="dimension" />
+    <attr name="a4s" format="reference" />
+    <attr name="a4t" format="reference" />
+    <attr name="a4u" format="dimension" />
+    <attr name="a4v" format="string" />
+    <attr name="a4w" format="boolean" />
+    <attr name="a4x" format="reference" />
+    <attr name="a4y" format="color" />
+    <attr name="a4z">
+        <enum name="escape" value="3" />
+        <enum name="inward" value="2" />
+        <enum name="none" value="0" />
+        <enum name="outward" value="1" />
+    </attr>
+    <attr name="a50">
+        <flag name="half" value="0x00000002" />
+        <flag name="oneThird" value="0x00000001" />
+        <flag name="twoThird" value="0x00000004" />
+    </attr>
+    <attr name="a51" format="reference" />
+    <attr name="a52" format="boolean" />
+    <attr name="a53" format="boolean" />
+    <attr name="a54" format="boolean" />
+    <attr name="a55" format="boolean" />
+    <attr name="a56" format="boolean" />
+    <attr name="a57" format="boolean" />
+    <attr name="a58" format="boolean" />
+    <attr name="a59" format="reference" />
+    <attr name="a5_" format="color" />
+    <attr name="a5a" format="reference" />
+    <attr name="a5b" format="reference" />
+    <attr name="a5c" format="dimension" />
+    <attr name="a5d" format="dimension" />
+    <attr name="a5e" format="reference|dimension" />
+    <attr name="a5f" format="reference|dimension" />
+    <attr name="a5g" format="reference|dimension" />
+    <attr name="a5h" format="reference" />
+    <attr name="a5i" format="float" />
+    <attr name="a5j" format="reference|color" />
+    <attr name="a5k" format="float" />
+    <attr name="a5l" format="float" />
+    <attr name="a5m" format="reference|color" />
+    <attr name="a5n" format="reference|color" />
+    <attr name="a5o" format="dimension" />
+    <attr name="a5p" format="boolean" />
+    <attr name="a5q" format="reference|color" />
+    <attr name="a5r" format="integer" />
+    <attr name="a5s" format="integer" />
+    <attr name="a5t" format="integer" />
+    <attr name="a5u" format="reference|color" />
+    <attr name="a5v" format="reference" />
+    <attr name="a5w" format="boolean" />
+    <attr name="a5x" format="reference" />
+    <attr name="a5y" format="dimension" />
+    <attr name="a5z">
+        <flag name="end" value="0x00000003" />
+        <flag name="start" value="0x00000001" />
+        <flag name="textEnd" value="0x00000004" />
+        <flag name="textStart" value="0x00000002" />
+        <flag name="textTop" value="0x00000020" />
+        <flag name="top" value="0x00000010" />
+    </attr>
+    <attr name="a60" format="boolean" />
+    <attr name="a61" format="dimension" />
+    <attr name="a62" format="reference|color" />
+    <attr name="a63" format="dimension" />
+    <attr name="a64" format="boolean" />
+    <attr name="a65" format="dimension" />
+    <attr name="a66" format="color" />
+    <attr name="a67">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="a68" format="boolean" />
+    <attr name="a69" format="reference" />
+    <attr name="a6_" format="reference" />
+    <attr name="a6a" format="reference" />
+    <attr name="a6b" format="float" />
+    <attr name="a6c">
+        <enum name="adjust_height" value="2" />
+        <enum name="adjust_width" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="a6d" format="reference" />
+    <attr name="a6e" format="dimension" />
+    <attr name="a6f" format="float" />
+    <attr name="a6g" format="float" />
+    <attr name="a6h" format="float" />
+    <attr name="a6i" format="float" />
+    <attr name="a6j" format="reference" />
+    <attr name="a6k" format="reference" />
+    <attr name="a6l" format="reference|color" />
+    <attr name="a6m" format="boolean" />
+    <attr name="a6n" format="reference" />
+    <attr name="a6o" format="reference|dimension" />
+    <attr name="a6p" format="reference|color" />
+    <attr name="a6q" format="reference" />
+    <attr name="a6r" format="reference|color" />
+    <attr name="a6s">
+        <enum name="contiguous" value="0" />
+        <enum name="disjoint" value="1" />
+    </attr>
+    <attr name="a6t" format="integer" />
+    <attr name="a6u" format="integer" />
+    <attr name="a6v" format="reference" />
+    <attr name="a6w" format="color" />
+    <attr name="a6x">
+        <enum name="clockwise" value="0" />
+        <enum name="counterclockwise" value="1" />
+    </attr>
+    <attr name="a6y">
+        <enum name="endToStart" value="3" />
+        <enum name="leftToRight" value="0" />
+        <enum name="rightToLeft" value="1" />
+        <enum name="startToEnd" value="2" />
+    </attr>
+    <attr name="a6z" format="dimension" />
+    <attr name="a70" format="dimension" />
+    <attr name="a71" format="dimension" />
+    <attr name="a72" format="integer">
+        <enum name="gone" value="8" />
+        <enum name="visible" value="0" />
+    </attr>
+    <attr name="a73" format="color" />
+    <attr name="a74" format="color" />
+    <attr name="a75" format="string" />
+    <attr name="a76" format="integer" />
+    <attr name="a77" format="dimension" />
+    <attr name="a78" format="dimension" />
+    <attr name="a79" format="reference|color" />
+    <attr name="a7_" format="string" />
+    <attr name="a7a" format="boolean" />
+    <attr name="a7b" format="boolean" />
+    <attr name="a7c" format="boolean" />
+    <attr name="a7d" format="boolean" />
+    <attr name="a7e" format="boolean" />
+    <attr name="a7f" format="boolean" />
+    <attr name="a7g" format="boolean" />
+    <attr name="a7h" format="boolean" />
+    <attr name="a7i" format="boolean" />
+    <attr name="a7j" format="boolean" />
+    <attr name="a7k" format="reference" />
+    <attr name="a7l" format="reference" />
+    <attr name="a7m" format="color" />
+    <attr name="a7n" format="dimension" />
+    <attr name="a7o" format="boolean" />
+    <attr name="a7p" format="dimension" />
+    <attr name="a7q" format="dimension" />
+    <attr name="a7r" format="color" />
+    <attr name="a7s" format="reference|integer|dimension" />
+    <attr name="a7t" format="reference|integer|dimension" />
+    <attr name="a7u" format="reference|integer|dimension" />
+    <attr name="a7v" format="integer" min="1" />
+    <attr name="a7w" format="dimension" />
+    <attr name="a7x" format="dimension" />
+    <attr name="a7y" format="dimension" />
+    <attr name="a7z" format="dimension" />
+    <attr name="a80" format="reference" />
+    <attr name="a81" format="color" />
+    <attr name="a82" format="reference" />
+    <attr name="a83" format="reference" />
+    <attr name="a84" format="color" />
+    <attr name="a85" format="dimension" />
+    <attr name="a86" format="dimension" />
+    <attr name="a87" format="dimension" />
+    <attr name="a88" format="dimension" />
+    <attr name="a89" format="dimension" />
+    <attr name="a8_" format="color" />
+    <attr name="a8a" format="dimension" />
+    <attr name="a8b" format="reference" />
+    <attr name="a8c" format="reference" />
+    <attr name="a8d" format="boolean" />
+    <attr name="a8e" format="reference" />
+    <attr name="a8f" format="color" />
+    <attr name="a8g" format="reference|integer|dimension" />
+    <attr name="a8h" format="reference|integer|dimension" />
+    <attr name="a8i" format="reference|integer|dimension" />
+    <attr name="a8j" format="dimension" />
+    <attr name="a8k" format="boolean" />
+    <attr name="a8l" format="boolean" />
+    <attr name="a8m" format="string" />
+    <attr name="a8n">
+        <enum name="deltaRelative" value="0" />
+        <enum name="parentRelative" value="2" />
+        <enum name="pathRelative" value="1" />
+    </attr>
+    <attr name="a8o" format="reference" />
+    <attr name="a8p" format="reference" />
+    <attr name="a8q" format="float" />
+    <attr name="a8r" format="reference" />
+    <attr name="a8s">
+        <enum name="floating" value="0" />
+        <enum name="gone" value="2" />
+        <enum name="visible" value="3" />
+        <enum name="withinBounds" value="1" />
+    </attr>
+    <attr name="a8t" format="dimension" />
+    <attr name="a8u" format="reference" />
+    <attr name="a8v" format="reference|color" />
+    <attr name="a8w">
+        <enum name="auto" value="-1" />
+        <enum name="labeled" value="1" />
+        <enum name="selected" value="0" />
+        <enum name="unlabeled" value="2" />
+    </attr>
+    <attr name="a8x" format="boolean" />
+    <attr name="a8y" format="dimension" />
+    <attr name="a8z" format="reference" />
+    <attr name="a90" format="reference" />
+    <attr name="a91" format="dimension" />
+    <attr name="a92" format="dimension" />
+    <attr name="a93" format="dimension" />
+    <attr name="a94" format="boolean" />
+    <attr name="a95" format="reference" />
+    <attr name="a96">
+        <enum name="auto_content" value="0" />
+        <enum name="auto_detail" value="1" />
+        <enum name="compact" value="2" />
+        <enum name="wide" value="3" />
+        <enum name="wrap" value="4" />
+    </attr>
+    <attr name="a97" format="reference" />
+    <attr name="a98">
+        <enum name="callMeasure" value="2" />
+        <enum name="honorRequest" value="1" />
+        <enum name="ignoreRequest" value="0" />
+    </attr>
+    <attr name="a99" format="string" />
+    <attr name="a9_" format="boolean" />
+    <attr name="a9a" format="reference" />
+    <attr name="a9b">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="a9c" format="string" />
+    <attr name="a9d">
+        <enum name="none" value="0" />
+        <enum name="parallax" value="2" />
+        <enum name="pin" value="1" />
+    </attr>
+    <attr name="a9e" format="float" />
+    <attr name="a9f" format="boolean" />
+    <attr name="a9g" format="boolean" />
+    <attr name="a9h" format="integer" />
+    <attr name="a9i" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9j" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9k" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9l" format="integer" />
+    <attr name="a9m" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9n" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9o" format="reference" />
+    <attr name="a9p" format="float" />
+    <attr name="a9q" format="dimension" />
+    <attr name="a9r" format="string" />
+    <attr name="a9s" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9t" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a9u" format="dimension" />
+    <attr name="a9v" format="dimension" />
+    <attr name="a9w" format="float" />
+    <attr name="a9x" format="string|dimension">
+        <enum name="match_constraint" value="-3" />
+        <enum name="match_parent" value="-1" />
+        <enum name="wrap_content" value="-2" />
+        <enum name="wrap_content_constrained" value="-4" />
+    </attr>
+    <attr name="a9y">
+        <enum name="percent" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="wrap" value="1" />
+    </attr>
+    <attr name="a9z" format="dimension">
+        <enum name="wrap" value="-2" />
+    </attr>
+    <attr name="a_0" format="dimension">
+        <enum name="wrap" value="-2" />
+    </attr>
+    <attr name="a_1" format="float" />
+    <attr name="a_2" format="float" />
+    <attr name="a_3">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a_4" format="float" />
+    <attr name="a_5" format="integer" />
+    <attr name="a_6" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_7" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_8" format="integer" />
+    <attr name="a_9" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a__" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_a" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_b" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_c" format="string" />
+    <attr name="a_d" format="integer" />
+    <attr name="a_e" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_f" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="a_g" format="float" />
+    <attr name="a_h">
+        <enum name="packed" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="spread_inside" value="1" />
+    </attr>
+    <attr name="a_i" format="float" />
+    <attr name="a_j" format="string|dimension">
+        <enum name="match_constraint" value="-3" />
+        <enum name="match_parent" value="-1" />
+        <enum name="wrap_content" value="-2" />
+        <enum name="wrap_content_constrained" value="-4" />
+    </attr>
+    <attr name="a_k">
+        <enum name="percent" value="2" />
+        <enum name="spread" value="0" />
+        <enum name="wrap" value="1" />
+    </attr>
+    <attr name="a_l" format="dimension">
+        <enum name="wrap" value="-2" />
+    </attr>
+    <attr name="a_m" format="dimension">
+        <enum name="wrap" value="-2" />
+    </attr>
+    <attr name="a_n" format="float" />
+    <attr name="a_o">
+        <flag name="all" value="0x00000077" />
+        <flag name="bottom" value="0x00000050" />
+        <flag name="end" value="0x00800005" />
+        <flag name="left" value="0x00000003" />
+        <flag name="none" value="0x00000000" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="a_p" format="dimension" />
+    <attr name="a_q" format="dimension" />
+    <attr name="a_r" format="dimension" />
+    <attr name="a_s" format="dimension" />
+    <attr name="a_t" format="dimension" />
+    <attr name="a_u" format="dimension" />
+    <attr name="a_v" format="dimension" />
+    <attr name="a_w" format="dimension" />
+    <attr name="a_x" format="dimension" />
+    <attr name="a_y">
+        <enum name="bottom" value="80" />
+        <enum name="end" value="8388613" />
+        <enum name="left" value="3" />
+        <enum name="none" value="0" />
+        <enum name="right" value="5" />
+        <enum name="start" value="8388611" />
+        <enum name="top" value="48" />
+    </attr>
+    <attr name="a_z" format="integer" />
+    <attr name="aa0" format="dimension" />
+    <attr name="aa1">
+        <flag name="barrier" value="0x00000002" />
+        <flag name="cache_measures" value="0x00000100" />
+        <flag name="chains" value="0x00000004" />
+        <flag name="dependency_ordering" value="0x00000200" />
+        <flag name="dimensions" value="0x00000008" />
+        <flag name="direct" value="0x00000001" />
+        <flag name="graph" value="0x00000040" />
+        <flag name="graph_wrap" value="0x00000080" />
+        <flag name="grouping" value="0x00000400" />
+        <flag name="groups" value="0x00000020" />
+        <flag name="legacy" value="0x00000000" />
+        <flag name="none" value="0x00000000" />
+        <flag name="ratio" value="0x00000010" />
+        <flag name="standard" value="0x00000101" />
+    </attr>
+    <attr name="aa2">
+        <enum name="compress" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="aa3">
+        <flag name="enterAlways" value="0x00000004" />
+        <flag name="enterAlwaysCollapsed" value="0x00000008" />
+        <flag name="exitUntilCollapsed" value="0x00000002" />
+        <flag name="noScroll" value="0x00000000" />
+        <flag name="scroll" value="0x00000001" />
+        <flag name="snap" value="0x00000010" />
+        <flag name="snapMargins" value="0x00000020" />
+    </attr>
+    <attr name="aa4" format="reference" />
+    <attr name="aa5">
+        <enum name="horizontal_only" value="1" />
+        <enum name="included" value="0" />
+        <enum name="skipped" value="3" />
+        <enum name="vertical_only" value="2" />
+    </attr>
+    <attr name="aa6" format="reference" />
+    <attr name="aa7" format="integer" />
+    <attr name="aa8" format="boolean" />
+    <attr name="aa9" format="color" />
+    <attr name="aa_" format="reference" />
+    <attr name="aaa" format="reference" />
+    <attr name="aab" format="dimension" />
+    <attr name="aac" format="integer">
+        <flag name="center" value="0x00000004" />
+        <flag name="end" value="0x00000002" />
+        <flag name="start" value="0x00000001" />
+    </attr>
+    <attr name="aad" format="dimension" />
+    <attr name="aae" format="reference|dimension" />
+    <attr name="aaf" format="dimension" />
+    <attr name="aag" format="dimension" />
+    <attr name="aah" format="reference|dimension" />
+    <attr name="aai" format="reference|dimension" />
+    <attr name="aaj" format="reference" />
+    <attr name="aak" format="reference" />
+    <attr name="aal" format="reference" />
+    <attr name="aam" format="reference" />
+    <attr name="aan" format="reference" />
+    <attr name="aao" format="reference" />
+    <attr name="aap" format="reference" />
+    <attr name="aaq" format="reference" />
+    <attr name="aar" format="reference" />
+    <attr name="aas" format="reference" />
+    <attr name="aat" format="reference" />
+    <attr name="aau" format="reference" />
+    <attr name="aav" format="dimension" />
+    <attr name="aaw" format="dimension" />
+    <attr name="aax" format="dimension" />
+    <attr name="aay" format="dimension" />
+    <attr name="aaz" format="dimension" />
+    <attr name="ab0" format="dimension" />
+    <attr name="ab1" format="dimension" />
+    <attr name="ab2" format="reference" />
+    <attr name="ab3" format="reference|color" />
+    <attr name="ab4" format="reference" />
+    <attr name="ab5" format="reference|color" />
+    <attr name="ab6" format="integer" />
+    <attr name="ab7" format="reference" />
+    <attr name="ab8" format="boolean" />
+    <attr name="ab9" format="string" />
+    <attr name="ab_">
+        <enum name="center" value="5" />
+        <enum name="centerCrop" value="6" />
+        <enum name="centerInside" value="7" />
+        <enum name="fitCenter" value="3" />
+        <enum name="fitEnd" value="4" />
+        <enum name="fitStart" value="2" />
+        <enum name="fitXY" value="1" />
+        <enum name="matrix" value="0" />
+    </attr>
+    <attr name="aba" format="boolean" />
+    <attr name="abb" format="boolean" />
+    <attr name="abc" format="color" />
+    <attr name="abd" format="boolean" />
+    <attr name="abe" format="reference" />
+    <attr name="abf" format="string" />
+    <attr name="abg" format="string" />
+    <attr name="abh" format="boolean" />
+    <attr name="abi" format="float" />
+    <attr name="abj" format="reference" />
+    <attr name="abk">
+        <enum name="automatic" value="0" />
+        <enum name="hardware" value="1" />
+        <enum name="software" value="2" />
+    </attr>
+    <attr name="abl" format="integer" />
+    <attr name="abm">
+        <enum name="restart" value="1" />
+        <enum name="reverse" value="2" />
+    </attr>
+    <attr name="abn" format="float" />
+    <attr name="abo" format="float" />
+    <attr name="abp" format="string" />
+    <attr name="abq" format="boolean" />
+    <attr name="abr" format="string" />
+    <attr name="abs" format="integer" />
+    <attr name="abt" format="integer" />
+    <attr name="abu" format="dimension" />
+    <attr name="abv" format="dimension" />
+    <attr name="abw" format="boolean" />
+    <attr name="abx" format="boolean" />
+    <attr name="aby" format="boolean" />
+    <attr name="abz" format="integer" />
+    <attr name="ac0" format="reference|color" />
+    <attr name="ac1" format="reference" />
+    <attr name="ac2" format="integer" />
+    <attr name="ac3" format="reference" />
+    <attr name="ac4" format="reference" />
+    <attr name="ac5" format="reference" />
+    <attr name="ac6" format="reference" />
+    <attr name="ac7" format="reference" />
+    <attr name="ac8" format="reference" />
+    <attr name="ac9" format="reference" />
+    <attr name="ac_" format="reference" />
+    <attr name="aca" format="reference" />
+    <attr name="acb" format="reference" />
+    <attr name="acc" format="reference" />
+    <attr name="acd" format="reference" />
+    <attr name="ace" format="reference" />
+    <attr name="acf" format="reference" />
+    <attr name="acg" format="reference" />
+    <attr name="ach" format="reference" />
+    <attr name="aci" format="reference" />
+    <attr name="acj" format="reference" />
+    <attr name="ack" format="reference" />
+    <attr name="acl" format="reference" />
+    <attr name="acm" format="reference" />
+    <attr name="acn" format="reference" />
+    <attr name="aco" format="reference" />
+    <attr name="acp" format="reference" />
+    <attr name="acq" format="reference" />
+    <attr name="acr" format="reference" />
+    <attr name="acs" format="dimension" />
+    <attr name="act" format="reference" />
+    <attr name="acu" format="reference" />
+    <attr name="acv" format="reference|string|integer|boolean|color|float|dimension|fraction" />
+    <attr name="acw" format="reference|string|integer|boolean|color|float|dimension|fraction" />
+    <attr name="acx" format="reference" />
+    <attr name="acy" format="reference" />
+    <attr name="acz" format="reference" />
+    <attr name="ad0" format="reference" />
+    <attr name="ad1" format="reference" />
+    <attr name="ad2" format="reference" />
+    <attr name="ad3" format="reference" />
+    <attr name="ad4" format="dimension" />
+    <attr name="ad5" format="reference" />
+    <attr name="ad6" format="reference|string|integer|boolean|color|float|dimension|fraction" />
+    <attr name="ad7" format="reference" />
+    <attr name="ad8" format="reference" />
+    <attr name="ad9" format="reference" />
+    <attr name="ad_" format="reference" />
+    <attr name="ada" format="float" />
+    <attr name="adb" format="dimension" />
+    <attr name="adc" format="dimension" />
+    <attr name="add" format="integer" />
+    <attr name="ade" format="string" />
+    <attr name="adf" format="integer" />
+    <attr name="adg" format="float" />
+    <attr name="adh" format="dimension" />
+    <attr name="adi" format="dimension" />
+    <attr name="adj" format="integer" />
+    <attr name="adk" format="integer" />
+    <attr name="adl" format="float" />
+    <attr name="adm" format="integer" />
+    <attr name="adn" format="float" />
+    <attr name="ado" format="float" />
+    <attr name="adp" format="dimension" />
+    <attr name="adq" format="reference|dimension" />
+    <attr name="adr" format="reference|dimension" />
+    <attr name="ads" format="dimension" />
+    <attr name="adt" format="dimension" />
+    <attr name="adu" format="reference" />
+    <attr name="adv" format="reference" />
+    <attr name="adw" format="color" />
+    <attr name="adx" format="dimension" />
+    <attr name="ady" format="dimension" />
+    <attr name="adz" format="dimension" />
+    <attr name="ae0" format="dimension" />
+    <attr name="ae1" format="dimension" />
+    <attr name="ae2" format="dimension" />
+    <attr name="ae3" format="dimension" />
+    <attr name="ae4" format="dimension" />
+    <attr name="ae5" format="boolean" />
+    <attr name="ae6" format="reference" />
+    <attr name="ae7">
+        <enum name="auto" value="0" />
+        <enum name="start" value="1" />
+    </attr>
+    <attr name="ae8">
+        <enum name="bottom" value="81" />
+        <enum name="center" value="17" />
+        <enum name="top" value="49" />
+    </attr>
+    <attr name="ae9" format="string" />
+    <attr name="ae_" format="boolean" />
+    <attr name="aea" format="integer" />
+    <attr name="aeb" format="string" />
+    <attr name="aec" format="float" />
+    <attr name="aed" format="dimension" />
+    <attr name="aee" format="integer" />
+    <attr name="aef" format="integer" />
+    <attr name="aeg" format="float" />
+    <attr name="aeh" format="dimension" />
+    <attr name="aei" format="dimension" />
+    <attr name="aej" format="dimension" />
+    <attr name="aek" format="reference|dimension" />
+    <attr name="ael" format="reference|dimension" />
+    <attr name="aem" format="integer" />
+    <attr name="aen" format="reference" />
+    <attr name="aeo" format="reference" />
+    <attr name="aep" format="reference" />
+    <attr name="aeq" format="reference" />
+    <attr name="aer" format="reference" />
+    <attr name="aes" format="reference" />
+    <attr name="aet" format="reference|color" />
+    <attr name="aeu" format="reference|color" />
+    <attr name="aev" format="reference|color" />
+    <attr name="aew" format="boolean" />
+    <attr name="aex" format="reference" />
+    <attr name="aey" format="reference|color" />
+    <attr name="aez" format="reference|dimension" />
+    <attr name="af0" format="reference" />
+    <attr name="af1" format="reference|color" />
+    <attr name="af2" format="reference|dimension" />
+    <attr name="af3" format="reference|color" />
+    <attr name="af4" format="reference|string" />
+    <attr name="af5" format="dimension" />
+    <attr name="af6" format="float" />
+    <attr name="af7" format="reference|dimension" />
+    <attr name="af8" format="reference" />
+    <attr name="af9" format="reference|color" />
+    <attr name="af_" format="reference|dimension" />
+    <attr name="afa" format="reference" />
+    <attr name="afb" format="reference" />
+    <attr name="afc" format="reference|color" />
+    <attr name="afd" format="reference|color" />
+    <attr name="afe" format="reference" />
+    <attr name="aff" format="reference" />
+    <attr name="afg" format="string" />
+    <attr name="afh" format="reference|dimension" />
+    <attr name="afi" format="reference" />
+    <attr name="afj" format="reference|color" />
+    <attr name="afk" format="dimension" />
+    <attr name="afl" format="string" />
+    <attr name="afm" format="integer">
+        <enum name="assertive" value="2" />
+        <enum name="none" value="0" />
+        <enum name="polite" value="1" />
+    </attr>
+    <attr name="afn" format="string" />
+    <attr name="afo" format="boolean" />
+    <attr name="afp" format="reference" />
+    <attr name="afq" format="color" />
+    <attr name="afr" format="boolean" />
+    <attr name="afs" format="boolean" />
+    <attr name="aft" format="boolean" />
+    <attr name="afu" format="boolean" />
+    <attr name="afv" format="boolean" />
+    <attr name="afw" format="boolean" />
+    <attr name="afx" format="boolean" />
+    <attr name="afy" format="reference" />
+    <attr name="afz" format="reference|color" />
+    <attr name="ag0" format="reference" />
+    <attr name="ag1" format="reference" />
+    <attr name="ag2" format="reference|dimension" />
+    <attr name="ag3" format="reference|boolean" />
+    <attr name="ag4" format="reference|boolean" />
+    <attr name="ag5" format="reference|float" />
+    <attr name="ag6" format="reference|color" />
+    <attr name="ag7" format="reference|color" />
+    <attr name="ag8" format="reference" />
+    <attr name="ag9" format="reference" />
+    <attr name="ag_" format="reference|dimension" />
+    <attr name="aga" format="reference|boolean" />
+    <attr name="agb" format="boolean" />
+    <attr name="agc" format="color" />
+    <attr name="agd" format="string" />
+    <attr name="age" format="color" />
+    <attr name="agf" format="color" />
+    <attr name="agg" format="boolean" />
+    <attr name="agh" format="boolean" />
+    <attr name="agi" format="reference" />
+    <attr name="agj">
+        <flag name="dex" value="0x00000001" />
+        <flag name="lib" value="0x00000002" />
+        <flag name="none" value="0x00000000" />
+        <flag name="res" value="0x00000004" />
+    </attr>
+    <attr name="agk">
+        <enum name="NO_DEBUG" value="0" />
+        <enum name="SHOW_ALL" value="3" />
+        <enum name="SHOW_PATH" value="2" />
+        <enum name="SHOW_PROGRESS" value="1" />
+    </attr>
+    <attr name="agl" format="integer" />
+    <attr name="agm" format="integer" />
+    <attr name="agn" format="integer" />
+    <attr name="ago" format="integer" />
+    <attr name="agp" format="integer" />
+    <attr name="agq" format="integer" />
+    <attr name="agr" format="integer" />
+    <attr name="ags" format="integer" />
+    <attr name="agt" format="integer" />
+    <attr name="agu" format="integer" />
+    <attr name="agv" format="integer" />
+    <attr name="agw" format="integer" />
+    <attr name="agx" format="integer" />
+    <attr name="agy" format="integer" />
+    <attr name="agz" format="integer" />
+    <attr name="ah0" format="integer" />
+    <attr name="ah1" format="string" />
+    <attr name="ah2" format="string" />
+    <attr name="ah3" format="string" />
+    <attr name="ah4" format="reference" />
+    <attr name="ah5" format="reference" />
+    <attr name="ah6" format="reference" />
+    <attr name="ah7" format="string" />
+    <attr name="ah8" format="reference" />
+    <attr name="ah9" format="string" />
+    <attr name="ah_" format="reference" />
+    <attr name="aha" format="reference" />
+    <attr name="ahb" format="reference" />
+    <attr name="ahc" format="float" />
+    <attr name="ahd" format="integer" />
+    <attr name="ahe">
+        <enum name="auto" value="-1" />
+        <enum name="east" value="2" />
+        <enum name="north" value="0" />
+        <enum name="south" value="1" />
+        <enum name="west" value="3" />
+    </attr>
+    <attr name="ahf" format="integer" />
+    <attr name="ahg" format="boolean" />
+    <attr name="ahh" format="dimension" />
+    <attr name="ahi" format="dimension" />
+    <attr name="ahj" format="reference" />
+    <attr name="ahk" format="reference|string">
+        <enum name="anticipate" value="6" />
+        <enum name="bounce" value="4" />
+        <enum name="easeIn" value="1" />
+        <enum name="easeInOut" value="0" />
+        <enum name="easeOut" value="2" />
+        <enum name="linear" value="3" />
+        <enum name="overshoot" value="5" />
+    </attr>
+    <attr name="ahl" format="string">
+        <enum name="arc" value="1" />
+        <enum name="linear" value="0" />
+    </attr>
+    <attr name="ahm" format="float" />
+    <attr name="ahn" format="float" />
+    <attr name="aho" format="float" />
+    <attr name="ahp" format="reference|string" />
+    <attr name="ahq" format="boolean" />
+    <attr name="ahr" format="reference" />
+    <attr name="ahs" format="boolean" />
+    <attr name="aht" format="reference" />
+    <attr name="ahu" format="reference" />
+    <attr name="ahv" format="string" />
+    <attr name="ahw" format="string" />
+    <attr name="ahx" format="reference" />
+    <attr name="ahy" format="color" />
+    <attr name="ahz">
+        <enum name="axv" value="2" />
+        <enum name="listMode" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="ai0" format="reference" />
+    <attr name="ai1" format="reference" />
+    <attr name="ai2" format="reference" />
+    <attr name="ai3" format="reference" />
+    <attr name="ai4" format="reference" />
+    <attr name="ai5" format="reference" />
+    <attr name="ai6" format="reference" />
+    <attr name="ai7" format="reference" />
+    <attr name="ai8" format="reference" />
+    <attr name="ai9" format="boolean" />
+    <attr name="ai_" format="boolean" />
+    <attr name="aia" format="boolean" />
+    <attr name="aib" format="string" />
+    <attr name="aic">
+        <flag name="disablePostScroll" value="0x00000001" />
+        <flag name="disableScroll" value="0x00000002" />
+        <flag name="none" value="0x00000000" />
+        <flag name="supportScrollUp" value="0x00000004" />
+    </attr>
+    <attr name="aid" format="reference" />
+    <attr name="aie" format="boolean" />
+    <attr name="aif" format="integer" />
+    <attr name="aig" format="integer" />
+    <attr name="aih" format="float" />
+    <attr name="aii" format="float" />
+    <attr name="aij" format="reference|color" />
+    <attr name="aik" format="color" />
+    <attr name="ail" format="integer" />
+    <attr name="aim" format="dimension" />
+    <attr name="ain" format="reference" />
+    <attr name="aio">
+        <flag name="ALT" value="0x00000002" />
+        <flag name="CTRL" value="0x00001000" />
+        <flag name="FUNCTION" value="0x00000008" />
+        <flag name="META" value="0x00010000" />
+        <flag name="SHIFT" value="0x00000001" />
+        <flag name="SYM" value="0x00000004" />
+    </attr>
+    <attr name="aip">
+        <enum name="legacy" value="1" />
+        <enum name="z2" value="0" />
+    </attr>
+    <attr name="aiq" format="reference|color" />
+    <attr name="air" format="boolean" />
+    <attr name="ais" format="reference|color" />
+    <attr name="ait" format="boolean" />
+    <attr name="aiu" format="string" />
+    <attr name="aiv" format="boolean" />
+    <attr name="aiw" format="string" />
+    <attr name="aix" format="string" />
+    <attr name="aiy" format="boolean" />
+    <attr name="aiz">
+        <enum name="actionDown" value="1" />
+        <enum name="actionDownUp" value="3" />
+        <enum name="actionUp" value="2" />
+        <enum name="sharedValueSet" value="4" />
+        <enum name="sharedValueUnset" value="5" />
+    </attr>
+    <attr name="aj0">
+        <enum name="autoComplete" value="0" />
+        <enum name="autoCompleteToEnd" value="2" />
+        <enum name="autoCompleteToStart" value="1" />
+        <enum name="decelerate" value="4" />
+        <enum name="decelerateAndComplete" value="5" />
+        <enum name="neverCompleteToEnd" value="7" />
+        <enum name="neverCompleteToStart" value="6" />
+        <enum name="stop" value="3" />
+    </attr>
+    <attr name="aj1" format="integer" />
+    <attr name="aj2" format="boolean" />
+    <attr name="aj3" format="dimension" />
+    <attr name="aj4" format="reference" />
+    <attr name="aj5" format="color" />
+    <attr name="aj6" format="dimension" />
+    <attr name="aj7" format="reference|boolean" />
+    <attr name="aj8" format="reference|float" />
+    <attr name="aj9" format="reference|dimension" />
+    <attr name="aj_" format="boolean" />
+    <attr name="aja" format="boolean" />
+    <attr name="ajb" format="reference|dimension" />
+    <attr name="ajc" format="dimension" />
+    <attr name="ajd" format="boolean" />
+    <attr name="aje" format="dimension" />
+    <attr name="ajf" format="reference|dimension" />
+    <attr name="ajg" format="boolean" />
+    <attr name="ajh" format="reference|dimension" />
+    <attr name="aji" format="reference|dimension" />
+    <attr name="ajj" format="boolean" />
+    <attr name="ajk" format="dimension" />
+    <attr name="ajl" format="boolean" />
+    <attr name="ajm" format="reference|dimension" />
+    <attr name="ajn" format="dimension" />
+    <attr name="ajo" format="boolean" />
+    <attr name="ajp" format="reference|color" />
+    <attr name="ajq" format="dimension" />
+    <attr name="ajr" format="reference" />
+    <attr name="ajs" format="reference" />
+    <attr name="ajt" format="dimension" />
+    <attr name="aju" format="string" />
+    <attr name="ajv" format="reference" />
+    <attr name="ajw" format="boolean" />
+    <attr name="ajx" format="color" />
+    <attr name="ajy">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="ajz">
+        <enum name="flip" value="3" />
+        <enum name="none" value="0" />
+        <enum name="startHorizontal" value="2" />
+        <enum name="startVertical" value="1" />
+    </attr>
+    <attr name="ak0" format="float" />
+    <attr name="ak1" format="float" />
+    <attr name="ak2" format="float" />
+    <attr name="ak3" format="float" />
+    <attr name="ak4" format="float" />
+    <attr name="ak5" format="float" />
+    <attr name="ak6" format="boolean" />
+    <attr name="ak7" format="reference|color" />
+    <attr name="ak8" format="color" />
+    <attr name="ak9" format="reference">
+        <enum name="parent" value="0" />
+    </attr>
+    <attr name="ak_" format="dimension" />
+    <attr name="aka" format="dimension" />
+    <attr name="akb" format="color" />
+    <attr name="akc" format="color" />
+    <attr name="akd" format="boolean" />
+    <attr name="ake" format="boolean" />
+    <attr name="akf" format="dimension" />
+    <attr name="akg" format="dimension" />
+    <attr name="akh" format="boolean" />
+    <attr name="aki" format="string" />
+    <attr name="akj" format="string" />
+    <attr name="akk" format="reference" />
+    <attr name="akl" format="color" />
+    <attr name="akm">
+        <enum name="gone" value="8" />
+        <enum name="invisible" value="4" />
+        <enum name="visible" value="0" />
+    </attr>
+    <attr name="akn" format="color" />
+    <attr name="ako" format="color" />
+    <attr name="akp" format="reference" />
+    <attr name="akq" format="dimension" />
+    <attr name="akr" format="reference" />
+    <attr name="aks" format="reference" />
+    <attr name="akt" format="reference|integer" />
+    <attr name="aku" format="reference" />
+    <attr name="akv" format="reference" />
+    <attr name="akw" format="reference|float" />
+    <attr name="akx" format="reference|dimension" />
+    <attr name="aky" format="reference|dimension" />
+    <attr name="akz" format="reference|float" />
+    <attr name="al0" format="reference" />
+    <attr name="al1" format="string" />
+    <attr name="al2" format="reference|color" />
+    <attr name="al3" format="reference|dimension" />
+    <attr name="al4" format="reference|dimension" />
+    <attr name="al5" format="reference|color" />
+    <attr name="al6" format="reference|color" />
+    <attr name="al7" format="integer" />
+    <attr name="al8" format="reference" />
+    <attr name="al9" format="reference" />
+    <attr name="al_" format="reference|dimension" />
+    <attr name="ala" format="reference|dimension" />
+    <attr name="alb" format="reference" />
+    <attr name="alc" format="reference" />
+    <attr name="ald" format="reference|color" />
+    <attr name="ale" format="reference" />
+    <attr name="alf" format="reference|color" />
+    <attr name="alg" format="reference|dimension" />
+    <attr name="alh" format="reference|dimension" />
+    <attr name="ali" format="reference|dimension" />
+    <attr name="alj" format="reference" />
+    <attr name="alk" format="reference" />
+    <attr name="all" format="reference|color" />
+    <attr name="alm" format="reference" />
+    <attr name="aln" format="reference" />
+    <attr name="alo" format="reference" />
+    <attr name="alp" format="reference|dimension" />
+    <attr name="alq" format="reference|dimension" />
+    <attr name="alr" format="reference|dimension" />
+    <attr name="als" format="reference|dimension" />
+    <attr name="alt" format="reference|color" />
+    <attr name="alu" format="reference" />
+    <attr name="alv" format="reference" />
+    <attr name="alw" format="reference|color" />
+    <attr name="alx" format="reference" />
+    <attr name="aly" format="reference|dimension" />
+    <attr name="alz" format="reference|dimension" />
+    <attr name="am0" format="reference|dimension" />
+    <attr name="am1" format="reference|dimension" />
+    <attr name="am2" format="reference|color" />
+    <attr name="am3" format="reference|color" />
+    <attr name="am4" format="reference" />
+    <attr name="am5" format="reference|color" />
+    <attr name="am6" format="reference|color" />
+    <attr name="am7" format="reference|dimension" />
+    <attr name="am8" format="reference|dimension" />
+    <attr name="am9" format="reference|dimension" />
+    <attr name="am_" format="reference|dimension" />
+    <attr name="ama" format="reference|color" />
+    <attr name="amb" format="reference" />
+    <attr name="amc" format="reference|color" />
+    <attr name="amd" format="reference|color" />
+    <attr name="ame" format="reference|dimension" />
+    <attr name="amf" format="reference|dimension" />
+    <attr name="amg" format="reference|dimension" />
+    <attr name="amh" format="reference|dimension" />
+    <attr name="ami" format="reference|dimension" />
+    <attr name="amj" format="reference" />
+    <attr name="amk" format="reference" />
+    <attr name="aml" format="reference" />
+    <attr name="amm" format="string" />
+    <attr name="amn" format="reference" />
+    <attr name="amo" format="color" />
+    <attr name="amp" format="boolean" />
+    <attr name="amq" format="float" />
+    <attr name="amr" format="reference|color" />
+    <attr name="ams" format="dimension" />
+    <attr name="amt" format="string" />
+    <attr name="amu" format="boolean" />
+    <attr name="amv" format="reference" />
+    <attr name="amw" format="reference|color" />
+    <attr name="amx" format="reference|color" />
+    <attr name="amy" format="string" />
+    <attr name="amz" format="integer" />
+    <attr name="an0" format="reference|color" />
+    <attr name="an1" format="reference|color" />
+    <attr name="an2" format="reference|color" />
+    <attr name="an3" format="reference" />
+    <attr name="an4">
+        <enum name="high" value="2" />
+        <enum name="middle" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="an5" format="dimension" />
+    <attr name="an6" format="reference" />
+    <attr name="an7" format="reference" />
+    <attr name="an8" format="reference" />
+    <attr name="an9" format="integer" />
+    <attr name="an_" format="reference|color" />
+    <attr name="ana" format="reference|color" />
+    <attr name="anb" format="reference|dimension" />
+    <attr name="anc" format="reference|dimension" />
+    <attr name="and" format="color" />
+    <attr name="ane" format="reference" />
+    <attr name="anf" format="reference|string">
+        <enum name="bounce" value="4" />
+        <enum name="easeIn" value="1" />
+        <enum name="easeInOut" value="0" />
+        <enum name="easeOut" value="2" />
+        <enum name="linear" value="3" />
+        <enum name="overshoot" value="5" />
+    </attr>
+    <attr name="ang" format="float" />
+    <attr name="anh" format="integer" />
+    <attr name="ani" format="reference" />
+    <attr name="anj" format="string" />
+    <attr name="ank" format="reference" />
+    <attr name="anl" format="reference" />
+    <attr name="anm" format="boolean" />
+    <attr name="ann" format="reference|color" />
+    <attr name="ano" format="reference|color" />
+    <attr name="anp" format="reference" />
+    <attr name="anq" format="reference" />
+    <attr name="anr" format="reference" />
+    <attr name="ans" format="reference" />
+    <attr name="ant" format="dimension" />
+    <attr name="anu" format="reference|integer" />
+    <attr name="anv" format="color" />
+    <attr name="anw" format="dimension" />
+    <attr name="anx" format="reference" />
+    <attr name="any" format="reference" />
+    <attr name="anz" format="reference" />
+    <attr name="ao0" format="boolean" />
+    <attr name="ao1" format="boolean" />
+    <attr name="ao2" format="reference" />
+    <attr name="ao3" format="reference" />
+    <attr name="ao4" format="reference" />
+    <attr name="ao5" format="reference" />
+    <attr name="ao6" format="dimension" />
+    <attr name="ao7" format="dimension" />
+    <attr name="ao8" format="dimension" />
+    <attr name="ao9" format="dimension" />
+    <attr name="ao_" format="boolean" />
+    <attr name="aoa">
+        <flag name="all" value="0x00000002" />
+        <flag name="none" value="0x00000000" />
+        <flag name="one" value="0x00000001" />
+    </attr>
+    <attr name="aob" format="reference|boolean" />
+    <attr name="aoc">
+        <enum name="fill" value="3" />
+        <enum name="fit" value="0" />
+        <enum name="fixed_height" value="2" />
+        <enum name="fixed_width" value="1" />
+        <enum name="zoom" value="4" />
+    </attr>
+    <attr name="aod" format="float" />
+    <attr name="aoe" format="reference" />
+    <attr name="aof" format="boolean" />
+    <attr name="aog" format="boolean" />
+    <attr name="aoh" format="reference" />
+    <attr name="aoi" format="color" />
+    <attr name="aoj" format="reference" />
+    <attr name="aok" format="dimension" />
+    <attr name="aol" format="dimension" />
+    <attr name="aom" format="float" />
+    <attr name="aon" format="reference|dimension" />
+    <attr name="aoo" format="float" />
+    <attr name="aop" format="boolean" />
+    <attr name="aoq" format="dimension" />
+    <attr name="aor" format="reference|string" />
+    <attr name="aos" format="integer" />
+    <attr name="aot" format="reference|color" />
+    <attr name="aou" format="dimension" />
+    <attr name="aov" format="integer">
+        <flag name="angle" value="0x00000004" />
+        <flag name="horizontal" value="0x00000001" />
+        <flag name="vertical" value="0x00000002" />
+    </attr>
+    <attr name="aow" format="dimension" />
+    <attr name="aox" format="dimension" />
+    <attr name="aoy" format="reference|integer">
+        <enum name="compress" value="0" />
+        <enum name="offset" value="1" />
+    </attr>
+    <attr name="aoz" format="reference" />
+    <attr name="ap0" format="color" />
+    <attr name="ap1" format="dimension" />
+    <attr name="ap2" format="dimension" />
+    <attr name="ap3" format="reference" />
+    <attr name="ap4" format="dimension" />
+    <attr name="ap5" format="reference|color" />
+    <attr name="ap6" format="reference" />
+    <attr name="ap7" format="reference|color" />
+    <attr name="ap8" format="reference|color" />
+    <attr name="ap9" format="reference" />
+    <attr name="ap_" format="reference" />
+    <attr name="apa" format="reference" />
+    <attr name="apb" format="reference" />
+    <attr name="apc" format="reference" />
+    <attr name="apd" format="string" />
+    <attr name="ape" format="reference" />
+    <attr name="apf" format="string" />
+    <attr name="apg" format="string" />
+    <attr name="aph" format="color" />
+    <attr name="api" format="integer" />
+    <attr name="apj" format="reference" />
+    <attr name="apk" format="reference" />
+    <attr name="apl" format="reference" />
+    <attr name="apm" format="reference" />
+    <attr name="apn" format="reference" />
+    <attr name="apo">
+        <enum name="auto_content" value="0" />
+        <enum name="auto_detail" value="1" />
+        <enum name="compact" value="2" />
+        <enum name="wide" value="3" />
+    </attr>
+    <attr name="app" format="reference" />
+    <attr name="apq" format="reference" />
+    <attr name="apr" format="color" />
+    <attr name="aps" format="boolean" />
+    <attr name="apt" format="reference" />
+    <attr name="apu" format="reference" />
+    <attr name="apv" format="reference" />
+    <attr name="apw" format="reference" />
+    <attr name="apx" format="color" />
+    <attr name="apy" format="dimension" />
+    <attr name="apz" format="boolean" />
+    <attr name="aq0" format="dimension" />
+    <attr name="aq1" format="integer" />
+    <attr name="aq2" format="dimension" />
+    <attr name="aq3" format="dimension" />
+    <attr name="aq4" format="dimension" />
+    <attr name="aq5" format="dimension" />
+    <attr name="aq6" format="reference|boolean" />
+    <attr name="aq7" format="color" />
+    <attr name="aq8" format="color" />
+    <attr name="aq9" format="dimension" />
+    <attr name="aq_" format="reference" />
+    <attr name="aqa" format="dimension" />
+    <attr name="aqb" format="reference" />
+    <attr name="aqc" format="reference|color" />
+    <attr name="aqd" format="reference|dimension" />
+    <attr name="aqe" format="reference|dimension" />
+    <attr name="aqf" format="reference|dimension" />
+    <attr name="aqg" format="reference|dimension" />
+    <attr name="aqh" format="reference|dimension" />
+    <attr name="aqi" format="reference" />
+    <attr name="aqj" format="reference" />
+    <attr name="aqk" format="reference" />
+    <attr name="aql" format="reference" />
+    <attr name="aqm" format="reference" />
+    <attr name="aqn" format="reference" />
+    <attr name="aqo" format="reference" />
+    <attr name="aqp" format="reference" />
+    <attr name="aqq" format="reference" />
+    <attr name="aqr" format="reference" />
+    <attr name="aqs" format="reference" />
+    <attr name="aqt">
+        <enum name="cut" value="1" />
+        <enum name="rounded" value="0" />
+    </attr>
+    <attr name="aqu" format="boolean" />
+    <attr name="aqv" format="boolean" />
+    <attr name="aqw" format="boolean" />
+    <attr name="aqx">
+        <enum name="inward" value="2" />
+        <enum name="none" value="0" />
+        <enum name="outward" value="1" />
+    </attr>
+    <attr name="aqy" format="boolean" />
+    <attr name="aqz">
+        <flag name="always" value="0x00000002" />
+        <flag name="collapseActionView" value="0x00000008" />
+        <flag name="ifRoom" value="0x00000001" />
+        <flag name="never" value="0x00000000" />
+        <flag name="withText" value="0x00000004" />
+    </attr>
+    <attr name="ar0" format="boolean" />
+    <attr name="ar1" format="integer" />
+    <attr name="ar2">
+        <flag name="beginning" value="0x00000001" />
+        <flag name="end" value="0x00000004" />
+        <flag name="middle" value="0x00000002" />
+        <flag name="none" value="0x00000000" />
+    </attr>
+    <attr name="ar3" format="boolean" />
+    <attr name="ar4" format="boolean" />
+    <attr name="ar5" format="reference" />
+    <attr name="ar6" format="boolean" />
+    <attr name="ar7" format="boolean" />
+    <attr name="ar8" format="boolean" />
+    <attr name="ar9" format="boolean" />
+    <attr name="ar_" format="boolean" />
+    <attr name="ara" format="boolean" />
+    <attr name="arb">
+        <enum name="always" value="2" />
+        <enum name="never" value="0" />
+        <enum name="when_playing" value="1" />
+    </attr>
+    <attr name="arc" format="boolean" />
+    <attr name="ard" format="boolean" />
+    <attr name="are" format="boolean" />
+    <attr name="arf" format="boolean" />
+    <attr name="arg" format="boolean" />
+    <attr name="arh" format="boolean" />
+    <attr name="ari" format="boolean" />
+    <attr name="arj" format="integer" />
+    <attr name="ark" format="boolean" />
+    <attr name="arl" format="reference" />
+    <attr name="arm" format="color" />
+    <attr name="arn" format="reference" />
+    <attr name="aro" format="reference" />
+    <attr name="arp" format="reference" />
+    <attr name="arq" format="color" />
+    <attr name="arr" format="color" />
+    <attr name="ars" format="reference" />
+    <attr name="art" format="reference" />
+    <attr name="aru" format="reference" />
+    <attr name="arv" format="reference" />
+    <attr name="arw" format="boolean" />
+    <attr name="arx" format="boolean" />
+    <attr name="ary" format="boolean" />
+    <attr name="arz">
+        <enum name="large" value="1" />
+        <enum name="small" value="0" />
+    </attr>
+    <attr name="as0" format="float" />
+    <attr name="as1" format="boolean" />
+    <attr name="as2">
+        <enum name="lite_slide" value="2" />
+        <enum name="lite_zoom" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="as3" format="reference" />
+    <attr name="as4" format="reference" />
+    <attr name="as5" format="reference" />
+    <attr name="as6" format="reference|color" />
+    <attr name="as7" format="reference" />
+    <attr name="as8" format="reference" />
+    <attr name="as9" format="reference" />
+    <attr name="as_" format="reference|dimension" />
+    <attr name="asa" format="reference|dimension" />
+    <attr name="asb" format="reference|dimension" />
+    <attr name="asc" format="reference" />
+    <attr name="asd" format="dimension" />
+    <attr name="ase" format="dimension" />
+    <attr name="asf" format="dimension" />
+    <attr name="asg" format="boolean" />
+    <attr name="ash" format="boolean" />
+    <attr name="asi" format="dimension" />
+    <attr name="asj" format="reference" />
+    <attr name="ask" format="reference" />
+    <attr name="asl" format="reference" />
+    <attr name="asm" format="color" />
+    <attr name="asn" format="integer" />
+    <attr name="aso" format="dimension" />
+    <attr name="asp" format="boolean" />
+    <attr name="asq" format="reference" />
+    <attr name="asr" format="reference" />
+    <attr name="ass" format="reference" />
+    <attr name="ast" format="reference|color" />
+    <attr name="asu" format="reference" />
+    <attr name="asv">
+        <enum name="dialog" value="0" />
+        <enum name="dropdown" value="1" />
+    </attr>
+    <attr name="asw" format="reference" />
+    <attr name="asx" format="boolean" />
+    <attr name="asy" format="reference|dimension" />
+    <attr name="asz">
+        <enum name="locale" value="0" />
+        <enum name="ltr" value="1" />
+        <enum name="rtl" value="2" />
+    </attr>
+    <attr name="at0" format="dimension" />
+    <attr name="at1" format="dimension" />
+    <attr name="at2" format="float" />
+    <attr name="at3" format="boolean" />
+    <attr name="at4" format="integer">
+        <flag name="bottom" value="0x00000002" />
+        <flag name="top" value="0x00000001" />
+    </attr>
+    <attr name="at5">
+        <flag name="bounceBoth" value="0x00000003" />
+        <flag name="bounceEnd" value="0x00000002" />
+        <flag name="bounceStart" value="0x00000001" />
+        <flag name="overshoot" value="0x00000000" />
+    </attr>
+    <attr name="at6" format="float" />
+    <attr name="at7" format="float" />
+    <attr name="at8" format="float" />
+    <attr name="at9" format="float" />
+    <attr name="at_" format="float" />
+    <attr name="ata" format="boolean" />
+    <attr name="atb" format="dimension" />
+    <attr name="atc" format="dimension" />
+    <attr name="atd" format="boolean" />
+    <attr name="ate">
+        <flag name="image_center" value="0x00000010" />
+        <flag name="image_center_bottom" value="0x00000100" />
+        <flag name="image_center_left" value="0x00000020" />
+        <flag name="image_center_right" value="0x00000080" />
+        <flag name="image_center_top" value="0x00000040" />
+        <flag name="image_edge_bottom" value="0x00000008" />
+        <flag name="image_edge_left" value="0x00000001" />
+        <flag name="image_edge_right" value="0x00000004" />
+        <flag name="image_edge_top" value="0x00000002" />
+    </attr>
+    <attr name="atf" format="dimension" />
+    <attr name="atg" format="dimension" />
+    <attr name="ath" format="dimension" />
+    <attr name="ati" format="dimension" />
+    <attr name="atj" format="dimension" />
+    <attr name="atk" format="dimension" />
+    <attr name="atl" format="dimension" />
+    <attr name="atm" format="dimension" />
+    <attr name="atn" format="color" />
+    <attr name="ato">
+        <enum name="background_color_change" value="4" />
+        <enum name="content_color_change" value="3" />
+        <enum name="image_transform_text" value="1" />
+        <enum name="no_change" value="0" />
+        <enum name="text_transform_image" value="2" />
+    </attr>
+    <attr name="atp" format="integer" />
+    <attr name="atq">
+        <flag name="text_center" value="0x00000010" />
+        <flag name="text_center_bottom" value="0x00000100" />
+        <flag name="text_center_left" value="0x00000020" />
+        <flag name="text_center_right" value="0x00000080" />
+        <flag name="text_center_top" value="0x00000040" />
+        <flag name="text_edge_bottom" value="0x00000008" />
+        <flag name="text_edge_left" value="0x00000001" />
+        <flag name="text_edge_right" value="0x00000004" />
+        <flag name="text_edge_top" value="0x00000002" />
+    </attr>
+    <attr name="atr" format="dimension" />
+    <attr name="ats" format="dimension" />
+    <attr name="att" format="dimension" />
+    <attr name="atu" format="dimension" />
+    <attr name="atv" format="dimension" />
+    <attr name="atw" format="dimension" />
+    <attr name="atx" format="dimension" />
+    <attr name="aty" format="dimension" />
+    <attr name="atz" format="color" />
+    <attr name="au0" format="string" />
+    <attr name="au1" format="dimension" />
+    <attr name="au2" format="boolean" />
+    <attr name="au3" format="reference" />
+    <attr name="au4" format="reference" />
+    <attr name="au5" format="color" />
+    <attr name="au6" format="reference" />
+    <attr name="au7" format="dimension" />
+    <attr name="au8" format="dimension" />
+    <attr name="au9" format="integer" />
+    <attr name="au_" format="integer" />
+    <attr name="aua">
+        <enum name="centerToEdge" value="1" />
+        <enum name="startToEnd" value="0" />
+    </attr>
+    <attr name="aub">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="auc" format="integer" />
+    <attr name="aud" format="color" />
+    <attr name="aue" format="dimension" />
+    <attr name="auf" format="dimension" />
+    <attr name="aug" format="dimension" />
+    <attr name="auh" format="dimension" />
+    <attr name="aui" format="dimension" />
+    <attr name="auj" format="boolean" />
+    <attr name="auk" format="boolean" />
+    <attr name="aul" format="color" />
+    <attr name="aum" format="reference" />
+    <attr name="aun" format="dimension" />
+    <attr name="auo" format="dimension" />
+    <attr name="aup" format="dimension" />
+    <attr name="auq" format="dimension" />
+    <attr name="aur" format="boolean" />
+    <attr name="aus" format="float" />
+    <attr name="aut" format="reference" />
+    <attr name="auu" format="boolean" />
+    <attr name="auv" format="string" />
+    <attr name="auw" format="reference" />
+    <attr name="auy" format="dimension" />
+    <attr name="auz">
+        <enum name="center" value="4" />
+        <enum name="centerCrop" value="5" />
+        <enum name="centerInside" value="6" />
+        <enum name="fitCenter" value="2" />
+        <enum name="fitEnd" value="3" />
+        <enum name="fitStart" value="1" />
+        <enum name="fitXY" value="0" />
+    </attr>
+    <attr name="av0" format="color" />
+    <attr name="av1">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="av2" format="reference|dimension" />
+    <attr name="av3" format="integer" />
+    <attr name="av4" format="dimension" />
+    <attr name="av5" format="dimension" />
+    <attr name="av6" format="reference" />
+    <attr name="av7" format="color" />
+    <attr name="av8" format="boolean" />
+    <attr name="av9" format="boolean" />
+    <attr name="av_" format="boolean" />
+    <attr name="ava" format="boolean" />
+    <attr name="avb" format="boolean" />
+    <attr name="avc" format="boolean" />
+    <attr name="avd" format="boolean" />
+    <attr name="ave" format="boolean" />
+    <attr name="avf" format="boolean" />
+    <attr name="avg" format="boolean" />
+    <attr name="avh" format="boolean" />
+    <attr name="avi" format="boolean" />
+    <attr name="avj" format="boolean" />
+    <attr name="avk" format="boolean" />
+    <attr name="avl" format="boolean" />
+    <attr name="avm" format="boolean" />
+    <attr name="avn" format="boolean" />
+    <attr name="avo" format="boolean" />
+    <attr name="avp" format="boolean" />
+    <attr name="avq" format="boolean" />
+    <attr name="avr" format="reference|color" />
+    <attr name="avs" format="color" />
+    <attr name="avt" format="color" />
+    <attr name="avu" format="reference|boolean" />
+    <attr name="avv" format="reference" />
+    <attr name="avw" format="reference" />
+    <attr name="avx" format="reference" />
+    <attr name="avy" format="reference" />
+    <attr name="avz" format="color" />
+    <attr name="aw0" format="dimension" />
+    <attr name="aw1" format="reference" />
+    <attr name="aw2" format="reference|color" />
+    <attr name="aw3" format="dimension" />
+    <attr name="aw4" format="dimension" />
+    <attr name="aw5" format="reference" />
+    <attr name="aw6" format="reference" />
+    <attr name="aw7" format="string" />
+    <attr name="aw8" format="boolean" />
+    <attr name="aw9" format="reference" />
+    <attr name="aw_" format="color" />
+    <attr name="awa" format="reference" />
+    <attr name="awb" format="string" />
+    <attr name="awc" format="reference" />
+    <attr name="awd" format="color" />
+    <attr name="awe" format="reference" />
+    <attr name="awf" format="reference" />
+    <attr name="awg" format="string" />
+    <attr name="awh" format="string" />
+    <attr name="awi" format="string" />
+    <attr name="awj" format="boolean" />
+    <attr name="awk">
+        <enum name="none" value="0" />
+        <enum name="spherical_gl_surface_view" value="3" />
+        <enum name="surface_view" value="1" />
+        <enum name="texture_view" value="2" />
+        <enum name="video_decoder_gl_surface_view" value="4" />
+    </attr>
+    <attr name="awl" format="reference|color" />
+    <attr name="awm" format="string" />
+    <attr name="awn" format="color" />
+    <attr name="awo" format="dimension" />
+    <attr name="awp" format="color" />
+    <attr name="awq" format="dimension" />
+    <attr name="awr" format="dimension" />
+    <attr name="aws" format="color" />
+    <attr name="awt" format="color" />
+    <attr name="awu" format="dimension" />
+    <attr name="awv" format="dimension" />
+    <attr name="aww" format="dimension" />
+    <attr name="awx" format="reference" />
+    <attr name="awy" format="reference" />
+    <attr name="awz" format="reference" />
+    <attr name="ax0" format="reference" />
+    <attr name="ax1" format="string" />
+    <attr name="ax2" format="string" />
+    <attr name="ax3" format="reference|boolean" />
+    <attr name="ax4" format="reference|float" />
+    <attr name="ax5" format="reference|dimension" />
+    <attr name="ax6" format="reference|dimension" />
+    <attr name="ax7" format="reference|dimension" />
+    <attr name="ax8" format="reference|float" />
+    <attr name="ax9" format="reference|float" />
+    <attr name="ax_" format="reference|boolean" />
+    <attr name="axa" format="reference|color" />
+    <attr name="axb" format="reference|dimension" />
+    <attr name="axc" format="reference|dimension" />
+    <attr name="axd" format="reference|dimension" />
+    <attr name="axe" format="reference|string" />
+    <attr name="axf" format="reference|color" />
+    <attr name="axg" format="reference" />
+    <attr name="axh" format="dimension" />
+    <attr name="axi">
+        <enum name="center" value="1" />
+        <enum name="fill" value="0" />
+        <enum name="start" value="2" />
+    </attr>
+    <attr name="axj" format="color" />
+    <attr name="axk">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="axl" format="reference" />
+    <attr name="axm" format="integer" />
+    <attr name="axn">
+        <enum name="elastic" value="1" />
+        <enum name="fade" value="2" />
+        <enum name="linear" value="0" />
+    </attr>
+    <attr name="axo" format="color" />
+    <attr name="axp" format="boolean" />
+    <attr name="axq">
+        <enum name="bottom" value="0" />
+        <enum name="center" value="1" />
+        <enum name="stretch" value="3" />
+        <enum name="top" value="2" />
+    </attr>
+    <attr name="axr" format="dimension" />
+    <attr name="axs" format="boolean" />
+    <attr name="axt" format="dimension" />
+    <attr name="axu" format="dimension" />
+    <attr name="axv">
+        <enum name="auto" value="2" />
+        <enum name="fixed" value="1" />
+        <enum name="scrollable" value="0" />
+    </attr>
+    <attr name="axw" format="dimension" />
+    <attr name="axx" format="dimension" />
+    <attr name="axy" format="dimension" />
+    <attr name="axz" format="dimension" />
+    <attr name="ay0" format="dimension" />
+    <attr name="ay1" format="color" />
+    <attr name="ay2" format="reference" />
+    <attr name="ay3" format="reference" />
+    <attr name="ay4" format="color" />
+    <attr name="ay5" format="reference" />
+    <attr name="ay6" format="reference" />
+    <attr name="ay7" format="color" />
+    <attr name="ay8" format="boolean" />
+    <attr name="ay9" format="reference" />
+    <attr name="ay_" format="reference" />
+    <attr name="aya" format="integer" />
+    <attr name="ayb" format="color" />
+    <attr name="ayc" format="float" />
+    <attr name="ayd">
+        <enum name="a95" value="0" />
+        <enum name="postLayout" value="1" />
+        <enum name="staticLayout" value="3" />
+        <enum name="staticPostLayout" value="2" />
+    </attr>
+    <attr name="aye" format="string" />
+    <attr name="ayf" format="string" />
+    <attr name="ayg" format="reference|boolean" />
+    <attr name="ayh" format="reference" />
+    <attr name="ayi" format="reference" />
+    <attr name="ayj" format="reference" />
+    <attr name="ayk" format="reference" />
+    <attr name="ayl" format="reference" />
+    <attr name="aym" format="reference" />
+    <attr name="ayn" format="reference" />
+    <attr name="ayo" format="reference" />
+    <attr name="ayp" format="reference" />
+    <attr name="ayq" format="reference" />
+    <attr name="ayr" format="reference" />
+    <attr name="ays" format="reference" />
+    <attr name="ayt" format="reference" />
+    <attr name="ayu" format="reference" />
+    <attr name="ayv" format="reference" />
+    <attr name="ayw" format="reference" />
+    <attr name="ayx" format="reference" />
+    <attr name="ayy" format="reference" />
+    <attr name="ayz" format="reference" />
+    <attr name="az0" format="reference" />
+    <attr name="az1" format="reference" />
+    <attr name="az2" format="reference" />
+    <attr name="az3" format="reference" />
+    <attr name="az4" format="boolean" />
+    <attr name="az5" format="reference" />
+    <attr name="az6" format="reference" />
+    <attr name="az7" format="reference" />
+    <attr name="az8" format="reference" />
+    <attr name="az9" format="reference" />
+    <attr name="az_" format="reference" />
+    <attr name="aza" format="reference" />
+    <attr name="azb" format="reference" />
+    <attr name="azc" format="reference" />
+    <attr name="azd" format="reference" />
+    <attr name="aze" format="reference" />
+    <attr name="azf" format="reference" />
+    <attr name="azg" format="reference" />
+    <attr name="azh" format="reference" />
+    <attr name="azi" format="float" />
+    <attr name="azj" format="float" />
+    <attr name="azk" format="float" />
+    <attr name="azl" format="float" />
+    <attr name="azm" format="boolean" />
+    <attr name="azn" format="reference" />
+    <attr name="azo" format="reference|dimension" />
+    <attr name="azp" format="reference|color" />
+    <attr name="azq" format="reference|color" />
+    <attr name="azr" format="reference|color" />
+    <attr name="azs" format="reference|color" />
+    <attr name="azt" format="reference|color" />
+    <attr name="azu" format="reference|color" />
+    <attr name="azv" format="reference|color" />
+    <attr name="azw" format="reference|color" />
+    <attr name="azx" format="reference|color" />
+    <attr name="azy" format="reference|color" />
+    <attr name="azz" format="reference|color" />
+    <attr name="b00" format="reference|color" />
+    <attr name="b01" format="reference|color" />
+    <attr name="b02" format="reference|color" />
+    <attr name="b03" format="dimension" />
+    <attr name="b04" format="color" />
+    <attr name="b05" format="reference|color" />
+    <attr name="b06" format="reference" />
+    <attr name="b07" format="reference" />
+    <attr name="b08" format="reference" />
+    <attr name="b09" format="boolean" />
+    <attr name="b0_" format="reference" />
+    <attr name="b0a" format="reference" />
+    <attr name="b0b" format="reference" />
+    <attr name="b0c" format="reference" />
+    <attr name="b0d" format="string" />
+    <attr name="b0e" format="dimension" />
+    <attr name="b0f" format="dimension" />
+    <attr name="b0g" format="dimension" />
+    <attr name="b0h" format="reference|string" />
+    <attr name="b0i" format="reference|color" />
+    <attr name="b0j" format="reference|color" />
+    <attr name="b0k" format="reference|dimension" />
+    <attr name="b0l" format="reference|string" />
+    <attr name="b0m" format="reference|color" />
+    <attr name="b0n" format="color" />
+    <attr name="b0o" format="dimension" />
+    <attr name="b0p" format="float" />
+    <attr name="b0q" format="float" />
+    <attr name="b0r" format="reference" />
+    <attr name="b0s" format="string" />
+    <attr name="b0t" format="reference|dimension" />
+    <attr name="b0u" format="dimension" />
+    <attr name="b0v" format="dimension" />
+    <attr name="b0w" format="dimension" />
+    <attr name="b0x" format="dimension" />
+    <attr name="b0y" format="color" />
+    <attr name="b0z" format="dimension" />
+    <attr name="b10" format="integer" />
+    <attr name="b11">
+        <enum name="frost" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="b12" format="dimension" />
+    <attr name="b13" format="dimension" />
+    <attr name="b14" format="reference" />
+    <attr name="b15" format="dimension" />
+    <attr name="b16" format="reference|color" />
+    <attr name="b17" format="dimension" />
+    <attr name="b18" format="dimension" />
+    <attr name="b19" format="reference" />
+    <attr name="b1_" format="dimension" />
+    <attr name="b1a" format="color" />
+    <attr name="b1b">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="b1c" format="reference|dimension" />
+    <attr name="b1d" format="dimension" />
+    <attr name="b1e" format="reference|color" />
+    <attr name="b1f" format="reference|dimension" />
+    <attr name="b1g" format="color" />
+    <attr name="b1h" format="dimension" />
+    <attr name="b1i" format="dimension" />
+    <attr name="b1j" format="color" />
+    <attr name="b1k">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="b1l" format="dimension" />
+    <attr name="b1m" format="dimension" />
+    <attr name="b1n" format="color" />
+    <attr name="b1o" format="color" />
+    <attr name="b1p" format="color" />
+    <attr name="b1q" format="reference" />
+    <attr name="b1r" format="color" />
+    <attr name="b1s">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="b1t" format="dimension" />
+    <attr name="b1u" format="dimension" />
+    <attr name="b1v" format="boolean" />
+    <attr name="b1w" format="integer" />
+    <attr name="b1x" format="color" />
+    <attr name="b1y" format="color" />
+    <attr name="b1z">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="b20" format="boolean" />
+    <attr name="b21" format="dimension" />
+    <attr name="b22" format="string" />
+    <attr name="b23" format="string" />
+    <attr name="b24" format="reference" />
+    <attr name="b25" format="boolean" />
+    <attr name="b26" format="boolean" />
+    <attr name="b27" format="reference|boolean" />
+    <attr name="b28">
+        <enum name="fade" value="1" />
+        <enum name="scale" value="0" />
+    </attr>
+    <attr name="b29" format="boolean" />
+    <attr name="b2_" format="dimension" />
+    <attr name="b2a" format="dimension" />
+    <attr name="b2b" format="dimension" />
+    <attr name="b2c" format="dimension" />
+    <attr name="b2d" format="dimension" />
+    <attr name="b2e" format="dimension" />
+    <attr name="b2f" format="reference" />
+    <attr name="b2g" format="reference" />
+    <attr name="b2h" format="color" />
+    <attr name="b2i">
+        <enum name="end" value="2" />
+        <enum name="marquee" value="3" />
+        <enum name="middle" value="1" />
+        <enum name="start" value="0" />
+    </attr>
+    <attr name="b2j" format="reference" />
+    <attr name="b2k" format="boolean" />
+    <attr name="b2l" format="reference" />
+    <attr name="b2m" format="boolean" />
+    <attr name="b2n" format="reference" />
+    <attr name="b2o" format="reference" />
+    <attr name="b2p" format="reference" />
+    <attr name="b2q" format="reference" />
+    <attr name="b2r" format="reference|color" />
+    <attr name="b2s" format="reference" />
+    <attr name="b2t" format="reference" />
+    <attr name="b2u" format="string" />
+    <attr name="b2v" format="reference" />
+    <attr name="b2w" format="reference" />
+    <attr name="b2x" format="boolean" />
+    <attr name="b2y" format="reference" />
+    <attr name="b2z" format="reference" />
+    <attr name="b30" format="reference|integer" />
+    <attr name="b31" format="dimension" />
+    <attr name="b32" format="reference" />
+    <attr name="b33">
+        <enum name="bottom" value="3" />
+        <enum name="end" value="6" />
+        <enum name="left" value="1" />
+        <enum name="middle" value="4" />
+        <enum name="right" value="2" />
+        <enum name="start" value="5" />
+        <enum name="top" value="0" />
+    </attr>
+    <attr name="b34" format="boolean" />
+    <attr name="b35" format="reference" />
+    <attr name="b36" format="dimension" />
+    <attr name="b37" format="reference" />
+    <attr name="b38" format="color" />
+    <attr name="b39" format="color" />
+    <attr name="b3_" format="color" />
+    <attr name="b3a" format="dimension" />
+    <attr name="b3b" format="reference" />
+    <attr name="b3c" format="color" />
+    <attr name="b3d">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="b3e" format="dimension" />
+    <attr name="b3f" format="dimension" />
+    <attr name="b3g" format="dimension" />
+    <attr name="b3h" format="dimension" />
+    <attr name="b3i" format="color" />
+    <attr name="b3j">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="b3k" format="reference" />
+    <attr name="b3l" format="boolean" />
+    <attr name="b3m" format="string">
+        <enum name="accelerate" value="1" />
+        <enum name="decelerate" value="2" />
+        <enum name="linear" value="3" />
+        <enum name="standard" value="0" />
+    </attr>
+    <attr name="b3n">
+        <flag name="beginOnFirstDraw" value="0x00000001" />
+        <flag name="disableIntraAutoTransition" value="0x00000002" />
+        <flag name="none" value="0x00000000" />
+        <flag name="onInterceptTouchReturnSwipe" value="0x00000004" />
+    </attr>
+    <attr name="b3o" format="float" />
+    <attr name="b3p" format="reference" />
+    <attr name="b3q" format="boolean" />
+    <attr name="b3r" format="reference" />
+    <attr name="b3s" format="dimension" />
+    <attr name="b3t" format="reference" />
+    <attr name="b3u" format="reference" />
+    <attr name="b3v" format="float" />
+    <attr name="b3w" format="reference" />
+    <attr name="b3x" format="color" />
+    <attr name="b3y" format="dimension" />
+    <attr name="b3z" format="dimension" />
+    <attr name="b40" format="boolean" />
+    <attr name="b41" format="color" />
+    <attr name="b42" format="color" />
+    <attr name="b43" format="reference" />
+    <attr name="b44" format="dimension" />
+    <attr name="b45" format="dimension" />
+    <attr name="b46" format="dimension" />
+    <attr name="b47" format="dimension" />
+    <attr name="b48" format="integer" />
+    <attr name="b49" format="integer" />
+    <attr name="b4_">
+        <enum name="move_indicator" value="0" />
+        <enum name="move_tick" value="1" />
+    </attr>
+    <attr name="b4a">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="b4b" format="integer" />
+    <attr name="b4c" format="dimension" />
+    <attr name="b4d" format="integer" />
+    <attr name="b4e" format="dimension" />
+    <attr name="b4f" format="color" />
+    <attr name="b4g" format="boolean" />
+    <attr name="b4h" format="boolean" />
+    <attr name="b4i" format="boolean" />
+    <attr name="b4j" format="boolean" />
+    <attr name="b4k" format="boolean" />
+    <attr name="b4l" format="boolean" />
+    <attr name="b4m" format="boolean" />
+    <attr name="b4n" format="color" />
+    <attr name="b4o" format="dimension" />
+    <attr name="b4p" format="dimension" />
+    <attr name="b4q" format="float" />
+    <attr name="b4r" format="dimension" />
+    <attr name="b4s">
+        <enum name="LEFT" value="0" />
+        <enum name="RIGHT" value="1" />
+    </attr>
+    <attr name="b4t" format="integer" />
+    <attr name="b4u" format="color" />
+    <attr name="b4v" format="color" />
+    <attr name="b4w" format="integer" />
+    <attr name="b4x" format="boolean" />
+    <attr name="b4y" format="boolean" />
+    <attr name="b4z" format="boolean" />
+    <attr name="b50" format="boolean" />
+    <attr name="b51" format="boolean" />
+    <attr name="b52" format="boolean" />
+    <attr name="b53" format="boolean" />
+    <attr name="b54" format="boolean" />
+    <attr name="b55" format="float" />
+    <attr name="b56" format="reference" />
+    <attr name="b57" format="reference" />
+    <attr name="b58">
+        <enum name="bottom_large" value="1" />
+        <enum name="large" value="0" />
+    </attr>
+    <attr name="b59" format="dimension" />
+    <attr name="b5_" format="dimension" />
+    <attr name="b5a" format="string" />
+    <attr name="b5b" format="boolean" />
+    <attr name="b5c">
+        <enum name="allStates" value="1" />
+        <enum name="noState" value="2" />
+        <enum name="vo" value="0" />
+    </attr>
+    <attr name="b5d" format="reference" />
+    <attr name="b5e" format="reference" />
+    <attr name="b5f" format="reference" />
+    <attr name="b5g">
+        <enum name="ignore" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="b5h" format="reference" />
+    <attr name="b5i" format="integer" />
+    <attr name="b5j" format="boolean" />
+    <attr name="b5k" format="reference" />
+    <attr name="b5l" format="float" />
+    <attr name="b5m" format="integer" />
+    <attr name="b5n" format="float|dimension" />
+    <attr name="b5o" format="float" />
+    <attr name="b5p" format="float" />
+    <attr name="b5q" format="string">
+        <enum name="bounce" value="6" />
+        <enum name="cos" value="5" />
+        <enum name="reverseSawtooth" value="4" />
+        <enum name="sawtooth" value="3" />
+        <enum name="sin" value="0" />
+        <enum name="square" value="1" />
+        <enum name="triangle" value="2" />
+    </attr>
+    <attr name="b5r">
+        <enum name="path" value="1" />
+        <enum name="position" value="0" />
+    </attr>
+    <attr name="b5s" format="reference" />
+    <attr name="b5t" format="dimension" />
+    <attr name="b5u" format="boolean" />
+    <attr name="b5v" format="boolean" />
+    <attr name="b5w" format="boolean" />
+    <attr name="b5x" format="boolean" />
+    <attr name="b5y" format="reference|color" />
+    <attr name="b5z" format="boolean" />
+    <attr name="b60" format="reference|boolean" />
+    <attr name="b61">
+        <enum name="huge" value="3" />
+        <enum name="invalid" value="0" />
+        <enum name="large" value="2" />
+        <enum name="small" value="1" />
+    </attr>
+    <attr name="b62" format="reference|boolean" />
+    <attr name="b63" format="reference|boolean" />
+    <attr name="b64" format="dimension|fraction" />
+    <attr name="b65" format="dimension|fraction" />
+    <attr name="b66" format="dimension|fraction" />
+    <attr name="b67" format="dimension|fraction" />
+    <attr name="b68" format="boolean" />
+    <attr name="b69" format="dimension|fraction" />
+    <attr name="b6_">
+        <enum name="bottom" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="b6a" format="dimension|fraction" />
+    <attr name="b6b" format="dimension|fraction" />
+    <attr name="b6c" format="dimension|fraction" />
+    <attr name="b6d" format="dimension|fraction" />
+    <attr name="b6e" format="dimension|fraction" />
+    <attr name="b6f" format="dimension|fraction" />
+    <attr name="b6g" format="boolean" />
+    <attr name="b6h" format="reference|color" />
+    <attr name="b6i" format="boolean" />
+    <attr name="b6j">
+        <enum name="opaque" value="0" />
+        <enum name="transparentDark" value="2" />
+        <enum name="transparentLight" value="1" />
+    </attr>
+    <attr name="b6k" format="reference" />
+    <attr name="b6l" format="reference|color" />
+    <attr name="b6m" format="reference" />
+    <attr name="b6n" format="integer" />
+    <attr name="b6o" format="reference" />
+    <attr name="b6p" format="reference" />
+    <attr name="b6q" format="reference" />
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="be">@null</item>
+    <item type="anim" name="bf">@null</item>
+    <item type="anim" name="bg">@null</item>
+    <item type="anim" name="bh">@null</item>
+</resources>

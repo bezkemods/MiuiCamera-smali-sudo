@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">Focado. %d rostos detetados</item>
+        <item quantity="one">Focado. %d rosto detetado</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">%d fotos em disparo sequencial</item>
+        <item quantity="one">%d foto em disparo sequencial</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">Intervalo: %d segundos</item>
+        <item quantity="one">Intervalo: %d segundo</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">Duração: %d minutos</item>
+        <item quantity="one">Duração: %d minuto</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">Velocidade: %dX</item>
+        <item quantity="one">Velocidade: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">Duração: %d segundos</item>
+        <item quantity="one">Duração: %d segundo</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">Introduziu %d caracteres.</item>
+        <item quantity="one">Introduziu %d caractere.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">Introduza até %d caracteres.</item>
+        <item quantity="one">Introduza até %d caractere.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">Pode ligar até %d câmaras à mesma rede</item>
+        <item quantity="one">Pode ligar até %d câmara à mesma rede</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">Pode ligar até %d monitores à mesma rede</item>
+        <item quantity="one">Pode ligar até %d monitor à mesma rede</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">Pode criar até %d clones por vez.</item>
+        <item quantity="one">Pode criar até %d clone por vez.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>Não é possível ligar à câmara.&lt;br>Esta aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Depois disso, espere um minuto ou dois e tente novamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Não é possível ligar à câmara.&lt;br>Esta aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Depois disso, espere um minuto ou dois e tente novamente.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>Este dispositivo está superaquecido.&lt;br>A aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. O progresso atual foi guardado automaticamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Este dispositivo está superaquecido.&lt;br>A aplicação vai ser fechada em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. O progresso atual foi guardado automaticamente.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>A versão da Câmara que estás a utilizar não é compatível com o modelo do seu dispositivo.&lt;br>A aplicação fechará em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstale as atualizações da Câmara e tente novamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>A versão da Câmara que estás a utilizar não é compatível com o modelo do seu dispositivo.&lt;br>A aplicação fechará em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstale as atualizações da Câmara e tente novamente.&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="other">Avançar %d segundos</item>
+        <item quantity="one">Avançar %d segundo</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">Temporizador ligado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="one">Temporizador ligado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">Eliminar %1$d rascunhos?</item>
+        <item quantity="one">Eliminar %1$d rascunho?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">Adicione até %d predefinições</item>
+        <item quantity="one">Adicione até %d predefinição</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">Gravar %d segundos</item>
+        <item quantity="one">Gravar %d segundo</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">Pode gravar vídeos com congelamento de tempo apenas com %d objetos.</item>
+        <item quantity="one">Pode gravar vídeos com congelamento de tempo apenas com %d objeto.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+</resources>

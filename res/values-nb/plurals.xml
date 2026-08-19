@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">Fokusert. %d av ansiktene er gjenkjent</item>
+        <item quantity="one">Fokusert. %d av ansiktet er gjenkjent</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">%d bilder i et burst shot</item>
+        <item quantity="one">%d bilde i et burst shot</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">Intervall: %d sekunder</item>
+        <item quantity="one">Intervall: %d sekund</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">Varighet: %d minutter</item>
+        <item quantity="one">Varighet: %d minutt</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">Hastighet: %dX</item>
+        <item quantity="one">Hastighet: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">Varighet: %d sekunder</item>
+        <item quantity="one">Varighet: %d sekund</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">Anga %d tegn.</item>
+        <item quantity="one">Anga %d tegn.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">Angi opptil %d tegn.</item>
+        <item quantity="one">Angi opptil %d tegn.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">Du kan koble opptil %d kameraer til samme nettverk.</item>
+        <item quantity="one">Du kan koble opptil %d kamera til samme nettverk.</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">Du kan koble opptil %d monitorer til samme nettverk.</item>
+        <item quantity="one">Du kan koble opptil %d monitor til samme nettverk.</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">Du kan lage opptil %d kloner om gangen.</item>
+        <item quantity="one">Du kan lage opptil %d klone om gangen.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>Kan ikke koble til kameraet.&lt;br>Denne appen lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Vent ett minutt eller to etter dette og prøv igjen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kan ikke koble til kameraet.&lt;br>Denne appen lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Vent ett minutt eller to etter dette og prøv igjen.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>Enheten er for varm nå.&lt;br>Denne appen lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nåværende fremdrift ble lagret automatisk.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Enheten er for varm nå.&lt;br>Denne appen lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nåværende fremdrift ble lagret automatisk.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>Kameraversjonen du bruker, er ikke kompatibel med enhetsmodellen.&lt;br>Appen lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Avinstaller kameraoppdateringer og prøv igjen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kameraversjonen du bruker, er ikke kompatibel med enhetsmodellen.&lt;br>Appen lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Avinstaller kameraoppdateringer og prøv igjen.&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="other">Spol %d sekunder fremover</item>
+        <item quantity="one">Spol %d sekund fremover</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="other">Spol %d sekunder bakover</item>
+        <item quantity="one">Spol %d sekund bakover</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">Aktiverte tidtaker (%1$d sek). Bilder overføres til denne enheten.</item>
+        <item quantity="one">Aktiverte tidtaker (%1$d sek). Bilder overføres til denne enheten.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">Slette %1$d utkast?</item>
+        <item quantity="one">Slette %1$d utkast?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">Legg til opptil %d forhåndsinnstillinger</item>
+        <item quantity="one">Legg til opptil %d forhåndsinnstilling</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="other">%d nye varsler</item>
+        <item quantity="one">%d nytt varsel</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">Spill inn %d sekunder</item>
+        <item quantity="one">Spill inn %d sekund</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">Du kan bare ta opp tidsfrysingsvideoer med %d motiver.</item>
+        <item quantity="one">Du kan bare ta opp tidsfrysingsvideoer med %d motiv.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s bilder</item>
+        <item quantity="one">%1$s bilde</item>
+    </plurals>
+</resources>

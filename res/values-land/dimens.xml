@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b7_">48.0dip</dimen>
+    <dimen name="cf5">450.0dip</dimen>
+    <dimen name="cf6">600.0dip</dimen>
+    <dimen name="ch2">10.0dip</dimen>
+    <dimen name="ch3">10.0dip</dimen>
+    <dimen name="cxh">24.0dip</dimen>
+    <dimen name="cxk">24.0dip</dimen>
+    <dimen name="cyt">20.0dip</dimen>
+    <dimen name="cyv">4.0dip</dimen>
+    <dimen name="cyz">96.0dip</dimen>
+    <dimen name="cz2">0.0dip</dimen>
+    <dimen name="cz3">0.0dip</dimen>
+    <dimen name="cz4">104.0dip</dimen>
+    <dimen name="czb">68.0dip</dimen>
+    <dimen name="czc">64.0dip</dimen>
+    <dimen name="czd">32.0dip</dimen>
+    <dimen name="cze">24.0dip</dimen>
+    <dimen name="czf">32.0dip</dimen>
+</resources>

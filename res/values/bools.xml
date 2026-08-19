@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="b6r">true</bool>
+    <bool name="b6s">true</bool>
+    <bool name="b6t">false</bool>
+    <bool name="b6u">true</bool>
+    <bool name="b6v">true</bool>
+    <bool name="b6w">false</bool>
+    <bool name="b6x">true</bool>
+    <bool name="b6y">true</bool>
+    <bool name="b6z">false</bool>
+    <bool name="b70">false</bool>
+    <bool name="b71">true</bool>
+    <bool name="b72">true</bool>
+    <bool name="b73">false</bool>
+    <bool name="b74">true</bool>
+    <bool name="b75">false</bool>
+    <bool name="b76">false</bool>
+    <bool name="b77">false</bool>
+</resources>

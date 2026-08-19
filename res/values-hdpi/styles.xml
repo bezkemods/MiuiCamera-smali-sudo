@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="h2l" parent="@style/h2m">
+        <item name="ku">18.659973dip</item>
+        <item name="yl">24.0dip</item>
+        <item name="a41">3.3299866dip</item>
+    </style>
+</resources>

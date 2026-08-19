@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bex">93.09dip</dimen>
+    <dimen name="bqs">138.91519dip</dimen>
+    <dimen name="bqu">160.73318dip</dimen>
+    <dimen name="cc6">14.544983dip</dimen>
+    <item type="dimen" name="cf7">0.365</item>
+    <dimen name="cux">13.47998sp</dimen>
+    <dimen name="cuy">13.47998dip</dimen>
+    <dimen name="db_">40.0dip</dimen>
+    <dimen name="dcy">1.4499817dip</dimen>
+    <dimen name="dhy">11.635986dip</dimen>
+    <dimen name="di0">81.08179dip</dimen>
+    <dimen name="di1">12.363586dip</dimen>
+    <dimen name="doo">18.139984dip</dimen>
+    <dimen name="dox">83.649994dip</dimen>
+    <dimen name="doy">40.0dip</dimen>
+    <dimen name="doz">18.139984dip</dimen>
+    <dimen name="dp0">36.44998dip</dimen>
+    <dimen name="dp4">3.6399841dip</dimen>
+    <dimen name="dp6">10.909973dip</dimen>
+    <dimen name="dp7">72.72998dip</dimen>
+    <dimen name="dp8">94.0dip</dimen>
+    <dimen name="dpe">7.269989dip</dimen>
+    <dimen name="dpf">7.269989dip</dimen>
+    <dimen name="dph">23.089996dip</dimen>
+</resources>

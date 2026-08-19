@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">Sufokusuota. Aptikta %d veidų</item>
+        <item quantity="one">Sufokusuota. Aptiktas %d veidas</item>
+        <item quantity="few">Sufokusuota. Aptikti %d veidai</item>
+        <item quantity="many">Sufokusuota. Aptikta %d veidų</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">%d serijinių fotografijų</item>
+        <item quantity="one">%d serijinė fotografija</item>
+        <item quantity="few">%d serijinės fotografijos</item>
+        <item quantity="many">%d serijinės fotografijos</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">Intervalas: %d sekundžių</item>
+        <item quantity="one">Intervalas: %d sekundė</item>
+        <item quantity="few">Intervalas: %d sekundės</item>
+        <item quantity="many">Intervalas: %d sekundės</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">Trukmė: %d minutės</item>
+        <item quantity="one">Trukmė: %d minutė</item>
+        <item quantity="few">Trukmė: %d minutės</item>
+        <item quantity="many">Trukmė: %d minučių</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">Greitis: %dX</item>
+        <item quantity="one">Greitis: %dX</item>
+        <item quantity="few">Greitis: %dX</item>
+        <item quantity="many">Greitis: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">Trukmė: %d sekundžių</item>
+        <item quantity="one">Trukmė: %d sekundė</item>
+        <item quantity="few">Trukmė: %d sekundės</item>
+        <item quantity="many">Trukmė: %d sekundės</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">Įvesta %d simbolių.</item>
+        <item quantity="one">Įvestas %d simbolis.</item>
+        <item quantity="few">Įvesti %d simboliai.</item>
+        <item quantity="many">Įvesta %d simbolių.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">Įveskite iki %d simbolių.</item>
+        <item quantity="one">Įveskite iki %d simbolio.</item>
+        <item quantity="few">Įveskite iki %d simbolių.</item>
+        <item quantity="many">Įveskite iki %d simbolių.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">Į tą patį tinklą galite prijungti iki %d kamerų</item>
+        <item quantity="one">Į tą patį tinklą galite prijungti iki %d kameros</item>
+        <item quantity="few">Į tą patį tinklą galite prijungti iki %d kamerų</item>
+        <item quantity="many">Į tą patį tinklą galite prijungti iki %d kamerų</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">Į tą patį tinklą galite prijungti iki %d monitorių</item>
+        <item quantity="one">Į tą patį tinklą galite prijungti iki %d monitoriaus</item>
+        <item quantity="few">Į tą patį tinklą galite prijungti iki %d monitorių</item>
+        <item quantity="many">Į tą patį tinklą galite prijungti iki %d monitorių</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">Vienu metu galite sukurti iki %d klonų.</item>
+        <item quantity="one">Vienu metu galite sukurti %d kloną.</item>
+        <item quantity="few">Vienu metu galite sukurti iki %d klonų.</item>
+        <item quantity="many">Vienu metu galite sukurti iki %d klonų.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>Nepavyksta prisijungti prie kameros.&lt;br>Ši programa užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Tuomet palaukite vieną ar dvi minutes ir bandykite dar kartą.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Nepavyksta prisijungti prie kameros.&lt;br>Ši programa užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Tuomet palaukite vieną ar dvi minutes ir bandykite dar kartą.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Nepavyksta prisijungti prie kameros.&lt;br>Ši programa užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Tuomet palaukite vieną ar dvi minutes ir bandykite dar kartą.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Nepavyksta prisijungti prie kameros.&lt;br>Ši programa užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Tuomet palaukite vieną ar dvi minutes ir bandykite dar kartą.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>Šiuo metu įrenginys per karštas.&lt;br>Programa bus uždaryta už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Šis progresas buvo išsaugotas automatiškai.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Šiuo metu įrenginys per karštas.&lt;br>Programa bus uždaryta už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Šis progresas buvo išsaugotas automatiškai.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Šiuo metu įrenginys per karštas.&lt;br>Programa bus uždaryta už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Šis progresas buvo išsaugotas automatiškai.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Šiuo metu įrenginys per karštas.&lt;br>Programa bus uždaryta už &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Šis progresas buvo išsaugotas automatiškai.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>Jūsų naudojama fotoaparato versija nesiderina su jūsų įrenginio modeliu.&lt;br>Programėlė užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Išdiekite fotoaparato atnaujinimus ir bandykite dar kartą.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Jūsų naudojama fotoaparato versija nesiderina su jūsų įrenginio modeliu.&lt;br>Programėlė užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Išdiekite fotoaparato atnaujinimus ir bandykite dar kartą.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Jūsų naudojama fotoaparato versija nesiderina su jūsų įrenginio modeliu.&lt;br>Programėlė užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Išdiekite fotoaparato atnaujinimus ir bandykite dar kartą.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Jūsų naudojama fotoaparato versija nesiderina su jūsų įrenginio modeliu.&lt;br>Programėlė užsidarys už &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Išdiekite fotoaparato atnaujinimus ir bandykite dar kartą.&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="other">Prasukti pirmyn %d sekundžių</item>
+        <item quantity="one">Prasukti pirmyn %d sekundę</item>
+        <item quantity="few">Prasukti pirmyn %d sekundes</item>
+        <item quantity="many">Prasukti pirmyn %d sekundės</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="other">Atsukti atgal %d sekundžių</item>
+        <item quantity="one">Atsukti atgal %d sekundę</item>
+        <item quantity="few">Atsukti atgal %d sekundes</item>
+        <item quantity="many">Atsukti atgal %d sekundės</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">Įjungtas laikmatis (%1$d sek.). Nuotraukos bus perkeltos į šį įrenginį.</item>
+        <item quantity="one">Įjungtas laikmatis (%1$d sek.). Nuotraukos bus perkeltos į šį įrenginį.</item>
+        <item quantity="few">Įjungtas laikmatis (%1$d sek.). Nuotraukos bus perkeltos į šį įrenginį.</item>
+        <item quantity="many">Įjungtas laikmatis (%1$d sek.). Nuotraukos bus perkeltos į šį įrenginį.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">Trinti %1$d juodraščių?</item>
+        <item quantity="one">Trinti %1$d juodraštį?</item>
+        <item quantity="few">Trinti %1$d juodraščius?</item>
+        <item quantity="many">Trinti %1$d juodraščius?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">Ir iki %d išankstinių nustatymų</item>
+        <item quantity="one">Ir iki %d išankstinio nustatymo</item>
+        <item quantity="few">Ir iki %d išankstinių nustatymų</item>
+        <item quantity="many">Ir iki %d išankstinių nustatymų</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="many">%ds</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="few">%1$s min.</item>
+        <item quantity="many">%1$s min.</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">Įrašyti %d sekundžių</item>
+        <item quantity="one">Įrašyti %d sekundę</item>
+        <item quantity="few">Įrašyti %d sekundes</item>
+        <item quantity="many">Įrašyti %d sekundes</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektų.</item>
+        <item quantity="one">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektu.</item>
+        <item quantity="few">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektais.</item>
+        <item quantity="many">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektais.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s nuotraukų</item>
+        <item quantity="one">%1$s nuotrauka</item>
+        <item quantity="few">%1$s nuotraukos</item>
+        <item quantity="many">%1$s nuotraukos</item>
+    </plurals>
+</resources>

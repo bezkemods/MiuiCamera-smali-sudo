@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="other">Difokus. %d wajah dikesan</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="other">%d gambar dalam tangkapan berganda</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="other">Selang: %d saat</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="other">Tempoh: %d minit</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="other">Kelajuan: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="other">Durasi: %d saat</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="other">Memasukkan %d karakter.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="other">Masukkan sehingga %d karakter.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="other">Anda boleh menyambung sehingga %d kamera ke rangkaian yang sama</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="other">Anda boleh menyambung sehingga %d monitor ke rangkaian yang sama</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="other">Anda boleh mencipta sehingga %d klon dalam satu masa.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="other">&lt;Data>Tidak dapat menyambung ke kamera.&lt;br>Apl ini akan ditutup dalam &lt;font color=#FFCE16>&lt;b>%1$d saat &lt;/b>&lt;/font>. Selepas ini, tunggu satu atau dua minit dan cuba lagi.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="other">&lt;Data>Peranti ini terlalu panas sekarang.&lt;br>Apl ini akan ditutup dalam &lt;font color=#FFCE16>&lt;b>%1$d saat&lt;/b>&lt;/font>. Perkembangan semasa disimpan secara automatik.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="other">&lt;Data>Versi Kamera yang anda gunakan tidak serasi dengan model peranti anda.&lt;br>Apl akan ditutup dalam &lt;font color=#FFCE16>&lt;b>%1$d saat&lt;/b>&lt;/font>. Nyahpasang kemas kini Kamera dan cuba lagi.&lt;/Data></item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="other">%1$d saat</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="other">Pemasa dihidupkan (%1$d saat). Gambar akan dipindahkan ke peranti ini.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="other">Padam %1$d draf?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="other">Tambahkan sehingga %d pratetap</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="other">Rakam %d saat</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="other">Anda boleh merakam video beku masa sehingga %d subjek.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="other">%1$s gambar</item>
+    </plurals>
+</resources>

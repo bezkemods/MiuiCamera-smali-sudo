@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="epa">Navigate home</string>
+    <string name="epb">Navigate up</string>
+    <string name="epc">Done</string>
+    <string name="epd">See all</string>
+    <string name="epe">Choose an app</string>
+    <string name="epf">OFF</string>
+    <string name="epg">ON</string>
+    <string name="eph">Alt+</string>
+    <string name="epi">Ctrl+</string>
+    <string name="epj">delete</string>
+    <string name="epk">enter</string>
+    <string name="epl">Function+</string>
+    <string name="epm">Meta+</string>
+    <string name="epn">Shift+</string>
+    <string name="epo">space</string>
+    <string name="epp">Sym+</string>
+    <string name="epq">Menu+</string>
+    <string name="epr">Search…</string>
+    <string name="eps">Clear query</string>
+    <string name="ept">Search</string>
+    <string name="epu">Submit query</string>
+    <string name="epv">Voice search</string>
+    <string name="epw">Share with</string>
+    <string name="epx">Share with %s</string>
+    <string name="epy">Collapse</string>
+    <string name="f4l">Answer</string>
+    <string name="f4m">Video</string>
+    <string name="f4n">Decline</string>
+    <string name="f4o">Hang Up</string>
+    <string name="f4p">Incoming call</string>
+    <string name="f4q">Ongoing call</string>
+    <string name="f4r">Screening an incoming call</string>
+    <string name="fe_">Copy</string>
+    <string name="fk_">Advanced</string>
+    <string name="g2i">Not set</string>
+    <string name="gk4">"'%1$s' copied to clipboard."</string>
+    <string name="gnj">999+</string>
+    <string name="go_">%1$s, %2$s</string>
+    <string name="gu_">OFF</string>
+    <string name="gua">ON</string>
+</resources>

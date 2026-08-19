@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/ccx" android:insetRight="@dimen/ccx" android:insetTop="@dimen/ccz" android:insetBottom="@dimen/ccz"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <layer-list>
+        <item>
+            <shape android:shape="oval">
+                <solid android:color="@color/zoom_button_background_color" />
+            </shape>
+        </item>
+        <item>
+            <shape android:shape="oval">
+                <stroke android:width="@dimen/e10" android:color="@color/zoom_button_background_stroke_color" />
+            </shape>
+        </item>
+    </layer-list>
+</inset>
